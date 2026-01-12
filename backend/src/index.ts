@@ -102,19 +102,19 @@ async function processAndStoreData(env: Env) {
 		let top10Conc = null;
 
 		if (analysis && analysis.success && analysis.data) {
-			whaleConc = analysis.data.whaleConcentration;
-			smartMoneyDir = analysis.data.smartMoneyDirection;
-			top10Conc = analysis.data.top10Concentration;
+			whaleConc = analysis.data.whaleConcentration ?? null;
+			smartMoneyDir = analysis.data.smartMoneyDirection ?? null;
+			top10Conc = analysis.data.top10Concentration ?? null;
 		}
 
 		batch.push(stmt.bind(
 			market.marketId,
-			market.title,
+			market.title ?? null,
 			timestamp,
-			market.volume,
-			market.liquidity,
-			market.prices.yes,
-			market.prices.no,
+			market.volume ?? null,
+			market.liquidity ?? null,
+			market.prices?.yes ?? null,
+			market.prices?.no ?? null,
 			whaleConc,
 			smartMoneyDir,
 			top10Conc
