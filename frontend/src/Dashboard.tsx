@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import { format } from 'date-fns';
-import { Market, MarketListItem } from './types';
+import { type Market, type MarketListItem } from './types';
 import { Loader2, RefreshCw } from 'lucide-react';
 
 export default function Dashboard() {
@@ -152,7 +152,7 @@ export default function Dashboard() {
                       <YAxis yAxisId="right" orientation="right" />
                       <Tooltip 
                         labelFormatter={(ts) => format(ts, 'MM-dd HH:mm')}
-                        formatter={(val: number) => val.toLocaleString()}
+                        formatter={(val: number | undefined) => val?.toLocaleString() ?? ''}
                       />
                       <Legend />
                       <Line 
