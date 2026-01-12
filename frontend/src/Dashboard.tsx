@@ -5,6 +5,8 @@ import { format } from 'date-fns';
 import { type Market, type MarketListItem } from './types';
 import { Loader2, RefreshCw } from 'lucide-react';
 
+const API_BASE = import.meta.env.VITE_API_URL || '';
+
 export default function Dashboard() {
   const [selectedMarket, setSelectedMarket] = useState<string>('');
 
@@ -12,7 +14,7 @@ export default function Dashboard() {
   const { data: markets, isLoading: isLoadingMarkets } = useQuery<MarketListItem[]>({
     queryKey: ['markets'],
     queryFn: async () => {
-      const res = await fetch('/api/markets');
+      const res = await fetch(`${API_BASE}/api/markets`);
       if (!res.ok) throw new Error('Failed to fetch markets');
       return res.json();
     },
@@ -22,7 +24,7 @@ export default function Dashboard() {
   const { data: latestData, isLoading: isLoadingLatest, refetch: refetchLatest } = useQuery<Market[]>({
     queryKey: ['latest'],
     queryFn: async () => {
-      const res = await fetch('/api/latest');
+      const res = await fetch(`${API_BASE}/api/latest`);
       if (!res.ok) throw new Error('Failed to fetch latest data');
       return res.json();
     },
@@ -33,7 +35,7 @@ export default function Dashboard() {
     queryKey: ['history', selectedMarket],
     queryFn: async () => {
       if (!selectedMarket) return [];
-      const res = await fetch(`/api/history?marketId=${selectedMarket}`);
+      const res = await fetch(`${API_BASE}/api/history?marketId=${selectedMarket}`);
       if (!res.ok) throw new Error('Failed to fetch history');
       const data = await res.json();
       return data.map((item: any) => ({

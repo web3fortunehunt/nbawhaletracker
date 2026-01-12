@@ -3,3 +3,4 @@
 .config/
 .streamlit/
 *.db
+*.log
