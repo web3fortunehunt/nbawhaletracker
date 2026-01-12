@@ -1,0 +1,5212 @@
+[
+  {
+    "market": {
+      "marketId": "1057748",
+      "eventId": "1057748",
+      "conditionId": "0x9b2aad260f6b5dea10af0b03d5e4788adf261f0eea9db9616a3581e06bdaef0e",
+      "eventSlug": "nba-mem-lal-2026-01-04",
+      "marketSlug": "nba-mem-lal-2026-01-04",
+      "title": "Grizzlies vs. Lakers",
+      "sport": "NBA",
+      "startTime": "2026-01-05 02:30:00+00",
+      "volume": 3342599.780151,
+      "prices": {
+        "yes": 0,
+        "no": 1
+      },
+      "teamA": {
+        "name": "Memphis Grizzlies"
+      },
+      "teamB": {
+        "name": "Los Angeles Lakers"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
+            "amount": 395230.005954,
+            "outcomeIndex": 0,
+            "pseudonym": "DrPufferfish"
+          },
+          {
+            "proxyWallet": "0xbf42b711fe4dae59c49045bb81ad8b68ad82d698",
+            "amount": 174694.656993,
+            "outcomeIndex": 0,
+            "pseudonym": "0xBf42b711FE4DAe59C49045BB81aD8B68ad82D698-1766141281494"
+          },
+          {
+            "proxyWallet": "0xbddf61af533ff524d27154e589d2d7a81510c684",
+            "amount": 156858.849097,
+            "outcomeIndex": 0,
+            "pseudonym": "Countryside"
+          },
+          {
+            "proxyWallet": "0x0d3b10b8eac8b089c6e4a695e65d8e044167c46b",
+            "amount": 150686.490593,
+            "outcomeIndex": 0,
+            "pseudonym": "bossoskil"
+          },
+          {
+            "proxyWallet": "0xe6535d86446728d567f4929557c2c4eb3cdbc4a7",
+            "amount": 69826.974755,
+            "outcomeIndex": 0,
+            "pseudonym": "Kluivert9"
+          },
+          {
+            "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
+            "amount": 40947.853074,
+            "outcomeIndex": 0,
+            "pseudonym": "knedloveprovelo"
+          },
+          {
+            "proxyWallet": "0xe734d5a008576905ec700019e530a7cc8da88f6a",
+            "amount": 30499.929974,
+            "outcomeIndex": 0,
+            "pseudonym": "G1MAIN"
+          },
+          {
+            "proxyWallet": "0x4c0340f93e3c590118fc6e35215d51ce7dc80cc1",
+            "amount": 19999.9181,
+            "outcomeIndex": 0,
+            "pseudonym": "terminalline - 20450"
+          },
+          {
+            "proxyWallet": "0x92672c80d36dcd08172aa1e51dface0f20b70f9a",
+            "amount": 19999.815833,
+            "outcomeIndex": 0,
+            "pseudonym": "ckw"
+          },
+          {
+            "proxyWallet": "0xa9968bfebe9836a685b9011fb4dc2b5ee7bd8aac",
+            "amount": 16999.984208,
+            "outcomeIndex": 0,
+            "pseudonym": "0xa9968bFeBE9836A685B9011fB4Dc2B5eE7BD8AaC-1724364083357"
+          },
+          {
+            "proxyWallet": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+            "amount": 15133.304481,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xf6d0642148933ea5a0c5c9ad33c1c1b517e69391",
+            "amount": 11994.922632,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x817bd11dac76d41df5459a985e9e9c8a9e2e3c25",
+            "amount": 9999.650345,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xf1a9f874793d800bd330804b0550c6039d7152f7",
+            "amount": 9179.915788,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x512192d379f5a4347715b708cddb90b78d50b890",
+            "amount": 8305.43,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x41b48b4145d568604106d4a78bd333a8c974de82",
+            "amount": 7606.279896,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x512ec018b841af1feaa25c6d260c9344afd24f1b",
+            "amount": 6796.969695,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x77f14519a463512885c14c70be4ebb2e97f0a137",
+            "amount": 6252.545141,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xa5dcb282cab760e31df1f3f5c18350731c95ec43",
+            "amount": 6132.263259,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xbce95071a5a1c15a65bc257d38ba3bed06e903e9",
+            "amount": 5005.0046,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0x9a1d53e36d420bd9bd889b53fded021a157c8986",
+            "amount": 492.805181,
+            "outcomeIndex": 1,
+            "pseudonym": "338383833"
+          },
+          {
+            "proxyWallet": "0x133a1691db5a403b317991febcc70472c1f7149d",
+            "amount": 200,
+            "outcomeIndex": 1,
+            "pseudonym": "lukasi"
+          },
+          {
+            "proxyWallet": "0x605bb72d3e1cf27aa1d06095f8ba8b3825792ee1",
+            "amount": 100.994101,
+            "outcomeIndex": 1,
+            "pseudonym": "1abb"
+          },
+          {
+            "proxyWallet": "0x519a9b261fa8933f27741bed27c34aef128495f2",
+            "amount": 83.59,
+            "outcomeIndex": 1,
+            "pseudonym": "Elinorherzog20"
+          },
+          {
+            "proxyWallet": "0x45b3d1b87505e4eec820b9b8cd80e209a7927f04",
+            "amount": 62.686566,
+            "outcomeIndex": 1,
+            "pseudonym": "Justoneday"
+          },
+          {
+            "proxyWallet": "0xf0658461ead1c7f21065f362079739666c8bd1df",
+            "amount": 60.606059,
+            "outcomeIndex": 1,
+            "pseudonym": "Cryptoseal"
+          },
+          {
+            "proxyWallet": "0xd6cd1fd67d33a1d67a35a587963919273a2a49a5",
+            "amount": 30.99,
+            "outcomeIndex": 1,
+            "pseudonym": "jbvccx"
+          },
+          {
+            "proxyWallet": "0xbe21c48c84ad0497f2b359c7055773975db66fa7",
+            "amount": 30,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xe7a17d5d84ecb127d1a0924804967924adc0f9c2",
+            "amount": 29.850745,
+            "outcomeIndex": 1,
+            "pseudonym": "gamma58"
+          },
+          {
+            "proxyWallet": "0x6cef3436ddee07d899924eb9922a916f4725c8ad",
+            "amount": 27.892305,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xacbdc11ba2823bb5ba9ca327071632e931586af3",
+            "amount": 25,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x2e330bfb0d42388fda2936fde77c3c2a3a602f0f",
+            "amount": 21.5,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x732b1efe35755aec52220a0484bb69eefcf926b5",
+            "amount": 14.925372,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xde6c5812e3cd8267687403578e898fc567d8cb3a",
+            "amount": 13.97,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xe75c5df0eab3b07827a4d7235062584f81114c68",
+            "amount": 11.940296,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x645da5ac856d84457f00b7beab797d811b095ea0",
+            "amount": 10,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xcc6f123a4bb89163998b37ebb5f0c5ba32fc12c9",
+            "amount": 7.462685,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x58b24417cab78700e4a67c3ca666a82222eb567b",
+            "amount": 4.545452,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xc23fdcd1e330dcd148bba30edca062a8397a51a0",
+            "amount": 4.477609,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x79bffcba63b1a63f39930a35452660d595fd2630",
+            "amount": 3.921567,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 1162150.7644179994,
+        "noTotalAmount": 1237.157938,
+        "whaleConcentration": 62.53952764547951,
+        "smartMoneyDirection": "YES",
+        "top10Concentration": 92.56275338987719
+      },
+      "timestamp": 1768151278489
+    }
+  },
+  {
+    "market": {
+      "marketId": "1104775",
+      "eventId": "1104775",
+      "conditionId": "0x1232641b2f821646f5a6336af448d0b30b060e3a54d3059da5e2ee550eb5fca7",
+      "eventSlug": "nba-dal-chi-2026-01-10",
+      "marketSlug": "nba-dal-chi-2026-01-10",
+      "title": "Mavericks vs. Bulls",
+      "sport": "NBA",
+      "startTime": "2026-01-11 01:00:00+00",
+      "volume": 2614248.08768,
+      "prices": {
+        "yes": 0,
+        "no": 1
+      },
+      "teamA": {
+        "name": "Dallas Mavericks"
+      },
+      "teamB": {
+        "name": "Chicago Bulls"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+            "amount": 606305.592902,
+            "outcomeIndex": 0,
+            "pseudonym": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397"
+          },
+          {
+            "proxyWallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+            "amount": 500000,
+            "outcomeIndex": 0,
+            "pseudonym": "kch123"
+          },
+          {
+            "proxyWallet": "0xd7a58948a0aba3015f057ab4ecc5bef039e47c26",
+            "amount": 56000,
+            "outcomeIndex": 0,
+            "pseudonym": "Sensei2"
+          },
+          {
+            "proxyWallet": "0x8cbb318b8863898f0907dee7113453eb75faacb2",
+            "amount": 47820,
+            "outcomeIndex": 0,
+            "pseudonym": "0x8cbb318B8863898f0907deE7113453EB75FaACB2-1763215592534"
+          },
+          {
+            "proxyWallet": "0x56be086ab2f62b303dabf963e9e62a7cc40d57ee",
+            "amount": 28194.549889,
+            "outcomeIndex": 0,
+            "pseudonym": "0x56bE086AB2F62B303dabf963E9e62A7cc40D57eE-1722114787589"
+          },
+          {
+            "proxyWallet": "0xbce95071a5a1c15a65bc257d38ba3bed06e903e9",
+            "amount": 22110.222666,
+            "outcomeIndex": 0,
+            "pseudonym": "NebulaBite",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2716373-5831dc31-f02a-4ef2-8c6a-25abd45ef5d4.jpg"
+          },
+          {
+            "proxyWallet": "0x7a8885c8dc075f0578b648f29fa233408a7d41cc",
+            "amount": 17776.96309,
+            "outcomeIndex": 0,
+            "pseudonym": "stackingsats"
+          },
+          {
+            "proxyWallet": "0x72b40c0012682ef52228ad53ef955f9e4f177d67",
+            "amount": 16110,
+            "outcomeIndex": 0,
+            "pseudonym": "nz7"
+          },
+          {
+            "proxyWallet": "0xb45d9c6dc1ed17b1da83a7eb4d638710b371a406",
+            "amount": 15000,
+            "outcomeIndex": 0,
+            "pseudonym": "lavarball"
+          },
+          {
+            "proxyWallet": "0xe12a92092fdd4b94ca344a0d98db66f193be67ef",
+            "amount": 12949.881882,
+            "outcomeIndex": 0,
+            "pseudonym": "MikelenoskiSide2"
+          },
+          {
+            "proxyWallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+            "amount": 11547.966304,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+            "amount": 10500,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xa8a53259e60402b0001953f49f66ccb47d35122b",
+            "amount": 10411.627905,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x3f5ea0a8053e81ce2f59814118869322c35fe7db",
+            "amount": 9830.930229,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xe6b6359f8c0da41fa4e3a692dd0121cc1da6d3ee",
+            "amount": 8999.93542,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xedc8b2023897dad9df5b2f47ce79b2cdf1b6cca9",
+            "amount": 7999.997541,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x44a252796d39bb929b06d80042fdb5f7512c1aab",
+            "amount": 7084.3675,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+            "amount": 7000,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xfce17e0395c790ad16f5a0b7fea062120f8e9ce7",
+            "amount": 5747,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x34a9d40281738f8f3844400ed9444b7bf73885f1",
+            "amount": 5040.197861,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0xead02f1568144be782d762e2b6a719302830f3ba",
+            "amount": 44999.992789,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x9f138019d5481fdc5c59b93b0ae4b9b817cce0fd",
+            "amount": 9729.296132,
+            "outcomeIndex": 1,
+            "pseudonym": "Bienville"
+          },
+          {
+            "proxyWallet": "0x681dbf268dbe1db965f76cd7663ddf23f6f408aa",
+            "amount": 5390.61555,
+            "outcomeIndex": 1,
+            "pseudonym": "RCSun"
+          },
+          {
+            "proxyWallet": "0x6e82b93eb57b01a63027bd0c6d2f3f04934a752c",
+            "amount": 2782.03,
+            "outcomeIndex": 1,
+            "pseudonym": "0x24357454d8d1a0cc93a6c25fd490467372bc2454"
+          },
+          {
+            "proxyWallet": "0xd6966eb1ae7b52320ba7ab1016680198c9e08a49",
+            "amount": 2659.195713,
+            "outcomeIndex": 1,
+            "pseudonym": "EIf",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2970187-7a242ca5-ce20-4cbd-a772-b93edd01736c.png"
+          },
+          {
+            "proxyWallet": "0x3a613cdb8f00f7afe0196cbbb91bdb597383b560",
+            "amount": 2316.25,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x2f1942661895a824c71993c372461c1b02832ecc",
+            "amount": 2000,
+            "outcomeIndex": 1,
+            "pseudonym": "suonkute",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3299390-ff2af7da-aae7-404b-9b6b-be4eedc34589.webp"
+          },
+          {
+            "proxyWallet": "0x4f859b98d091fb78985aed9499ddbb320466bd8c",
+            "amount": 1499.999046,
+            "outcomeIndex": 1,
+            "pseudonym": "Angel21",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3989837-e36c64bc-367c-44dc-9f86-b0d52b24ad6d.jpeg"
+          },
+          {
+            "proxyWallet": "0x6ed043b1e11f02365b414db6ac9c9eac2575b747",
+            "amount": 1200,
+            "outcomeIndex": 1,
+            "pseudonym": "xianxia"
+          },
+          {
+            "proxyWallet": "0xb33c24cc997d8d41580f33261f557bc78ca5ddd1",
+            "amount": 440.677965,
+            "outcomeIndex": 1,
+            "pseudonym": "AstralHollow"
+          },
+          {
+            "proxyWallet": "0xe8b50493b5cf0bd3cd3d4fc23f6d1f8a0bbdeb06",
+            "amount": 440,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x23ed8cc321b838c392f583f69ea37c755e5dded5",
+            "amount": 300,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x4e0950a2b5788cbe3e7b007bf09e4a4f126d86a4",
+            "amount": 216.047838,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xddfaf2e300e3be3d5b853a1058dca54dc7c142f9",
+            "amount": 179.932202,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x36ecd8f0b746175cda5e4251e170185674248852",
+            "amount": 172.413792,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x3bc09f966bbd60b199e657b1f1faaa67fe47848d",
+            "amount": 171.847456,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x8a44909347d5ce4fe62f2aefd4581136506ee603",
+            "amount": 171.254236,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x77d5618b9caa3e5af7adf7d1e68eae37b1aa161b",
+            "amount": 171.16949,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x0e9c8698d017e10655b2b28a1600f2addea689a6",
+            "amount": 171.101692,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xcf4dd5bddf0ec14cb581215eff52ea02bf292279",
+            "amount": 169.491524,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 1406429.2331889998,
+        "noTotalAmount": 75181.31542499998,
+        "whaleConcentration": 82.50653307757162,
+        "smartMoneyDirection": "YES",
+        "top10Concentration": 94.17355113523223
+      },
+      "timestamp": 1768151278461
+    }
+  },
+  {
+    "market": {
+      "marketId": "1096971",
+      "eventId": "1096971",
+      "conditionId": "0x713d9ccfcad054baf93fdd6a7738a2ffc3f2a9f6d55202423eba2b89cbde80b9",
+      "eventSlug": "nba-atl-den-2026-01-09",
+      "marketSlug": "nba-atl-den-2026-01-09",
+      "title": "Hawks vs. Nuggets",
+      "sport": "NBA",
+      "startTime": "2026-01-10 02:00:00+00",
+      "volume": 2534637.569912,
+      "prices": {
+        "yes": 1,
+        "no": 0
+      },
+      "teamA": {
+        "name": "Atlanta Hawks"
+      },
+      "teamB": {
+        "name": "Denver Nuggets"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0x25a32ab14028787ce516737eeca37399cceefed1",
+            "amount": 1071.42857,
+            "outcomeIndex": 0,
+            "pseudonym": "gt563"
+          },
+          {
+            "proxyWallet": "0x21fda77bdf0c01605b8537b2fb2e078304425bb1",
+            "amount": 737.625,
+            "outcomeIndex": 0,
+            "pseudonym": "yjaerhtstrh"
+          },
+          {
+            "proxyWallet": "0xeda6e5e9441bf12cb26647c6489ec41b9d28ed4a",
+            "amount": 458.333332,
+            "outcomeIndex": 0,
+            "pseudonym": "PaleSummitFox"
+          },
+          {
+            "proxyWallet": "0xebdfa9ab7091a57f5c37182f339c4ef1acee1fcb",
+            "amount": 350.87719,
+            "outcomeIndex": 0,
+            "pseudonym": "DigitalR3x",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3257268-50c9ae7e-0251-48b0-8bcd-d8f5366f2f4a.jpg"
+          },
+          {
+            "proxyWallet": "0xd5cf6ba3f3b7d7efc21ab384820e53dadb20511d",
+            "amount": 240,
+            "outcomeIndex": 0,
+            "pseudonym": "jjjlin"
+          },
+          {
+            "proxyWallet": "0xc73592ac047fc0f6c1de9951c468def60c0753c1",
+            "amount": 234.9375,
+            "outcomeIndex": 0,
+            "pseudonym": "shsgsg34"
+          },
+          {
+            "proxyWallet": "0x21a4d9874db7aef3053416babbbb5068d0fbd39c",
+            "amount": 234.020832,
+            "outcomeIndex": 0,
+            "pseudonym": "eyrjhse3w45"
+          },
+          {
+            "proxyWallet": "0xc0e232b78a21e9f68c8cdb785c559793570733e5",
+            "amount": 211.25,
+            "outcomeIndex": 0,
+            "pseudonym": "dfhtsj"
+          },
+          {
+            "proxyWallet": "0xb799ad9a07d80e7a6af1e8b054884a7d0526866c",
+            "amount": 210.708332,
+            "outcomeIndex": 0,
+            "pseudonym": "w45q35g"
+          },
+          {
+            "proxyWallet": "0x8541d36802d7ce53e6674de67d58325defc4acf6",
+            "amount": 210.270832,
+            "outcomeIndex": 0,
+            "pseudonym": "fgnxzds43"
+          },
+          {
+            "proxyWallet": "0xcc7e34e9ef8c318dc59410063e4485fa94ebc328",
+            "amount": 209.0625,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x6ac640fd5ade59ee27b2eebb8a93a0da688c11f7",
+            "amount": 208.645832,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xf8e35ab514818dfb8f6bd8ab0cfe87116ffe700f",
+            "amount": 208.604165,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xd5a616af33f259f5ba004b0e2dfe35ee67f63905",
+            "amount": 204.081631,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x66fe8149ec5811c265b882fdade058b81e6ee123",
+            "amount": 200,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x8e8d3bdc5af219f030cb23db0412813a1eedbf55",
+            "amount": 166.666665,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x81ced0ba426eeb0dd143532ea3bc6a105467dc3c",
+            "amount": 160,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x3212a515f3a02546830a6fb41f01470ccfff634e",
+            "amount": 150,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xd9a2c7d495b7c65339be651bfffc2f956d1b1f5a",
+            "amount": 125,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xe046b4e885383c5c72eb4696be9d5b733fef786b",
+            "amount": 111.11111,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0xcd9bc2939f0dac121f6ccde59cca5e0b6a91414d",
+            "amount": 149521.989978,
+            "outcomeIndex": 1,
+            "pseudonym": "BITCOINTO500K"
+          },
+          {
+            "proxyWallet": "0xd0b4c4c020abdc88ad9a884f999f3d8cff8ffed6",
+            "amount": 106259.395656,
+            "outcomeIndex": 1,
+            "pseudonym": "MrSparklySimpsons"
+          },
+          {
+            "proxyWallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+            "amount": 100000,
+            "outcomeIndex": 1,
+            "pseudonym": "gmanas"
+          },
+          {
+            "proxyWallet": "0x966e2a54ed345c77aaca0feb26621eb22c14b2fe",
+            "amount": 51289.644357,
+            "outcomeIndex": 1,
+            "pseudonym": "luckylala"
+          },
+          {
+            "proxyWallet": "0x14619de097b1fbe058d6d36282662c20958a30a1",
+            "amount": 42422.96648,
+            "outcomeIndex": 1,
+            "pseudonym": "saksaks12"
+          },
+          {
+            "proxyWallet": "0xe12a92092fdd4b94ca344a0d98db66f193be67ef",
+            "amount": 25000,
+            "outcomeIndex": 1,
+            "pseudonym": "MikelenoskiSide2"
+          },
+          {
+            "proxyWallet": "0x5aa981521b4e94fee3b3bf18fe441f62e865febe",
+            "amount": 24999.716718,
+            "outcomeIndex": 1,
+            "pseudonym": "apucimama"
+          },
+          {
+            "proxyWallet": "0xe734d5a008576905ec700019e530a7cc8da88f6a",
+            "amount": 19999.955371,
+            "outcomeIndex": 1,
+            "pseudonym": "G1MAIN"
+          },
+          {
+            "proxyWallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+            "amount": 18504.105471,
+            "outcomeIndex": 1,
+            "pseudonym": "cigarettes"
+          },
+          {
+            "proxyWallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+            "amount": 13251,
+            "outcomeIndex": 1,
+            "pseudonym": "curie"
+          },
+          {
+            "proxyWallet": "0xa2e3515dc3fbba389ca3bcd9d0a17677ab57fbb2",
+            "amount": 11110.518517,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x344be5d62f3dc2f412395ebbd45ac89f8bf0f7fc",
+            "amount": 10453,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x7ac70e470049650997a2ba801adcbdc054bde0ef",
+            "amount": 10069.99714,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xfaba37f1854ebbd6a130e41d03485c0c1e2051de",
+            "amount": 9246.36625,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xae0f21790d847393dcc4da8b4d15f72ff84cf647",
+            "amount": 6499.973439,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x6ed043b1e11f02365b414db6ac9c9eac2575b747",
+            "amount": 5999.992242,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xf569d52f7d03518fa3d7e9e2d1be6e06f5e136a6",
+            "amount": 5999.986917,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x3214a0aee4f895b0f73af8b2f0f2a4d61c7a63d6",
+            "amount": 5681.81818,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x365783a181bea82f845a1f5e708687c07e4c6cd3",
+            "amount": 5499.991424,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x7634648b97e3f9fe56b65ed61a4f1fbf0c241b96",
+            "amount": 5290.909089,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 5702.623491,
+        "noTotalAmount": 627101.3272289998,
+        "whaleConcentration": 56.581311183126246,
+        "smartMoneyDirection": "NO",
+        "top10Concentration": 87.73779382813399
+      },
+      "timestamp": 1768151278940
+    }
+  },
+  {
+    "market": {
+      "marketId": "1096983",
+      "eventId": "1096983",
+      "conditionId": "0xf05b12027fc9a7874ad432b11d16f8176f5f7f0e202186e545c6c672c439a0f6",
+      "eventSlug": "nba-mil-lal-2026-01-09",
+      "marketSlug": "nba-mil-lal-2026-01-09",
+      "title": "Bucks vs. Lakers",
+      "sport": "NBA",
+      "startTime": "2026-01-10 03:30:00+00",
+      "volume": 2133821.476361,
+      "prices": {
+        "yes": 1,
+        "no": 0
+      },
+      "teamA": {
+        "name": "Milwaukee Bucks"
+      },
+      "teamB": {
+        "name": "Los Angeles Lakers"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0x5a2bb79b06b64edf7cf80497f9de0d961609ae0c",
+            "amount": 1300,
+            "outcomeIndex": 0,
+            "pseudonym": "jkldskwoej"
+          },
+          {
+            "proxyWallet": "0xbe9100371cf7b34a1f3bbb6b7fb82e4e851d7b3d",
+            "amount": 965.853657,
+            "outcomeIndex": 0,
+            "pseudonym": "OxMk"
+          },
+          {
+            "proxyWallet": "0x2010a1f60d217260374e5d8d53d6f338eac9aa99",
+            "amount": 487.804877,
+            "outcomeIndex": 0,
+            "pseudonym": "saharamachine"
+          },
+          {
+            "proxyWallet": "0xbd28a331d7d81f913d0c22904adbab0c7e419296",
+            "amount": 288,
+            "outcomeIndex": 0,
+            "pseudonym": "0xbd28A331D7d81F913D0C22904aDBaB0C7E419296-1743478038688"
+          },
+          {
+            "proxyWallet": "0x147b03a58b90d99b6f32c5f2dca2a39994a503bc",
+            "amount": 254.025,
+            "outcomeIndex": 0,
+            "pseudonym": "hwrtsdxryq3"
+          },
+          {
+            "proxyWallet": "0x8e0914b8f1500f0ab84d2e21d26672a7695dbeaf",
+            "amount": 254,
+            "outcomeIndex": 0,
+            "pseudonym": "ragwgr"
+          },
+          {
+            "proxyWallet": "0x6a4cbdee4f1b9c184507144fbed85e7bbdfee4e9",
+            "amount": 252.975,
+            "outcomeIndex": 0,
+            "pseudonym": "5jwhte"
+          },
+          {
+            "proxyWallet": "0x3a71fe130c2ef919a4db491c40cdab4288d3932a",
+            "amount": 252.15,
+            "outcomeIndex": 0,
+            "pseudonym": "ejw46se"
+          },
+          {
+            "proxyWallet": "0x649ef71cc688994bea4acb2a3f47ded7c3e83d50",
+            "amount": 250.725,
+            "outcomeIndex": 0,
+            "pseudonym": "w6hayegsz5"
+          },
+          {
+            "proxyWallet": "0x531875d0c6e98517d0f44efb86a64729a7492178",
+            "amount": 250.4,
+            "outcomeIndex": 0,
+            "pseudonym": "kws5yhsjs"
+          },
+          {
+            "proxyWallet": "0xfd28d4cb3c28b62e649c66ced86cd3e23ba559a8",
+            "amount": 250,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xd5a616af33f259f5ba004b0e2dfe35ee67f63905",
+            "amount": 243.902438,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x3a8ea2e32b14b278db44f4c57640cd7bad43b505",
+            "amount": 173.848739,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x6fb394b8cf65e458b7288f11379220569bb6c801",
+            "amount": 170.555554,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xea9e60763ce2e27294d869f2fd24020b5188d3fb",
+            "amount": 150,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xcbf43c8f74ee4466619fb5f32e8085ae89dc50e1",
+            "amount": 150,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x92cf24f75320b42c3740f4dd78f839ccbc208b35",
+            "amount": 116.279068,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x0637da829a3d19b3f662b893663935e28070a4d7",
+            "amount": 112.5,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xb0cbee0c7cda5c9c645e48f95d1660c8b86c85ba",
+            "amount": 102.564101,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xbfe4d07f9ccb8ed9890e1cc84d66d68405dd8212",
+            "amount": 100.075,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+            "amount": 121565.4,
+            "outcomeIndex": 1,
+            "pseudonym": "gmanas"
+          },
+          {
+            "proxyWallet": "0x56e2c952f9b953521f08ef0eb0c15473a1fa4b88",
+            "amount": 30000,
+            "outcomeIndex": 1,
+            "pseudonym": "NBA101"
+          },
+          {
+            "proxyWallet": "0x7d92fd69504bfd391162e1442cb784c0af408676",
+            "amount": 21147.9175,
+            "outcomeIndex": 1,
+            "pseudonym": "mikesports"
+          },
+          {
+            "proxyWallet": "0xa0f21e6d351baa9185716b5c00c2925ed9621848",
+            "amount": 11275.54,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x7ac42413e084047307a2d7b0acf68330fc273081",
+            "amount": 10000,
+            "outcomeIndex": 1,
+            "pseudonym": "yeezeez"
+          },
+          {
+            "proxyWallet": "0x56fcc141d24f3c9c29c72165ee2594cc59df733e",
+            "amount": 9999.933513,
+            "outcomeIndex": 1,
+            "pseudonym": "cy14"
+          },
+          {
+            "proxyWallet": "0x21c24a79a0c2f07b2ed34e30d42dffa3d0b66749",
+            "amount": 9522,
+            "outcomeIndex": 1,
+            "pseudonym": "ArbitrageFund"
+          },
+          {
+            "proxyWallet": "0xfaba37f1854ebbd6a130e41d03485c0c1e2051de",
+            "amount": 8554.424515,
+            "outcomeIndex": 1,
+            "pseudonym": "0xFabA37f1854eBbd6a130E41d03485c0c1e2051dE-1762017765100"
+          },
+          {
+            "proxyWallet": "0xf5e15d3344c35890f1aa716dca88e13eb9065ad0",
+            "amount": 8000,
+            "outcomeIndex": 1,
+            "pseudonym": "Bacc"
+          },
+          {
+            "proxyWallet": "0xe3d4dee2427b98042822543f8e1e8ab7bafb2bac",
+            "amount": 7452.577979,
+            "outcomeIndex": 1,
+            "pseudonym": "swy01"
+          },
+          {
+            "proxyWallet": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+            "amount": 6274.840659,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x14619de097b1fbe058d6d36282662c20958a30a1",
+            "amount": 5953.785952,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xe6a3778e5c3f93958534684ed7308b4625622f0d",
+            "amount": 5656.982378,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x3084ecfd10aa51eb5e76a913787f9e41e100c1d6",
+            "amount": 5399.98,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x66c937a94ec2398b1f9d7954eee8c48ff0c82e68",
+            "amount": 5264.114868,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xe91171f655be1568e4c63f29663c0028649e3d4e",
+            "amount": 5077.86,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xc9469fbe92ab22600d6e198bb1fd25c2d87d1825",
+            "amount": 5000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x5aa981521b4e94fee3b3bf18fe441f62e865febe",
+            "amount": 3835.237663,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x281669ea2fb436500bcd10f8842b20981da26ad7",
+            "amount": 3593.463946,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xb9b609ea2838c29126ba923726ee3192ca71630c",
+            "amount": 3499.996621,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 6125.658433999999,
+        "noTotalAmount": 287074.055594,
+        "whaleConcentration": 59.84554814990142,
+        "smartMoneyDirection": "NO",
+        "top10Concentration": 82.56274322896593
+      },
+      "timestamp": 1768151278968
+    }
+  },
+  {
+    "market": {
+      "marketId": "1081423",
+      "eventId": "1081423",
+      "conditionId": "0xb2578e821f34738770c5a285e3865806a6183cdb3f657143dfe6b16f341df59c",
+      "eventSlug": "nba-orl-bkn-2026-01-07",
+      "marketSlug": "nba-orl-bkn-2026-01-07",
+      "title": "Magic vs. Nets",
+      "sport": "NBA",
+      "startTime": "2026-01-08 00:30:00+00",
+      "volume": 1886182.664105,
+      "prices": {
+        "yes": 1,
+        "no": 0
+      },
+      "teamA": {
+        "name": "Orlando Magic"
+      },
+      "teamB": {
+        "name": "Brooklyn Nets"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xef9a607c7b8a1e616749f44cc16aaac5f665f58d",
+            "amount": 888,
+            "outcomeIndex": 0,
+            "pseudonym": "drfgdf456"
+          },
+          {
+            "proxyWallet": "0x66d5e77fc3480fb063c3caaa4ac669746acaee81",
+            "amount": 800,
+            "outcomeIndex": 0,
+            "pseudonym": "pepe12343"
+          },
+          {
+            "proxyWallet": "0x195a01cafaa8ece346d4af2bbdb591bcbc86f955",
+            "amount": 670,
+            "outcomeIndex": 0,
+            "pseudonym": "bvwer4"
+          },
+          {
+            "proxyWallet": "0x365782d8e08011b6b7537eb2cf9f893d0c60a0a7",
+            "amount": 666,
+            "outcomeIndex": 0,
+            "pseudonym": "bfd234"
+          },
+          {
+            "proxyWallet": "0xe0b2c41e6d00a6be180a18c88fdc80be83c9a185",
+            "amount": 526.31578,
+            "outcomeIndex": 0,
+            "pseudonym": "0xE0b2C41E6D00A6be180A18C88fDc80Be83c9A185-1763987913651"
+          },
+          {
+            "proxyWallet": "0x2b7e0206e9c40f97fb1e4211cbf8cd20200320a7",
+            "amount": 445,
+            "outcomeIndex": 0,
+            "pseudonym": "zombee00"
+          },
+          {
+            "proxyWallet": "0xf6f33d0f304710758d06c4a38cd4ecc8832d4f98",
+            "amount": 436.363635,
+            "outcomeIndex": 0,
+            "pseudonym": "bLp7qT9M2Rk54"
+          },
+          {
+            "proxyWallet": "0x1b3d49d8bc4f1583b8f3e5187115b003c15cd3aa",
+            "amount": 178.75,
+            "outcomeIndex": 0,
+            "pseudonym": "DawnNavRunner"
+          },
+          {
+            "proxyWallet": "0x31b84df85863d8a205365e60cfbe2c9e7036f929",
+            "amount": 145.454544,
+            "outcomeIndex": 0,
+            "pseudonym": "jiarijing"
+          },
+          {
+            "proxyWallet": "0x51fd8f0358cc9e8a1ee5f87a0c7e3b07ed634272",
+            "amount": 100,
+            "outcomeIndex": 0,
+            "pseudonym": "TimeTraveler",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Muis4_3392728f-e190-4755-b5d9-c1a0f212dc8d_1740895242173.png"
+          },
+          {
+            "proxyWallet": "0x074ef065a177614bc6c55f2fafe02794d32299f6",
+            "amount": 73.98148,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x364c40ac60114548f7587e1f3306e11b4153617e",
+            "amount": 60,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xd3e020c95766f37e0ec27c1512bad363ffe926c3",
+            "amount": 53.703702,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x8ff3ac07d714e795b885b5f97257a776007f6ad3",
+            "amount": 52.830187,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xa22227bbf75076fdd1b14adf8c9618c3552d98d2",
+            "amount": 50,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xc4838d85e77f6e39f5fd9a44f6b935017057cc90",
+            "amount": 50,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x19b335a130f90dbf53bd10c19719441804838405",
+            "amount": 50,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x103e3e30e327e7a0849998f01f28ed57aef58ba2",
+            "amount": 37.5,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x267f378da20fb2855f7379f7fc25719b30215d20",
+            "amount": 35.714284,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x46351cc000f27f6b5669ffe2875c1e0f8b627239",
+            "amount": 32.14,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0x060e94156048701cbf65b8e567ffe96b11742384",
+            "amount": 219999.313477,
+            "outcomeIndex": 1,
+            "pseudonym": "OkinawaMoongazer",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4293594-aed245d0-e4c0-4ae0-b864-86e98f849f2d.jpg"
+          },
+          {
+            "proxyWallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
+            "amount": 180968.589316,
+            "outcomeIndex": 1,
+            "pseudonym": "DrPufferfish"
+          },
+          {
+            "proxyWallet": "0xb889590a2fab0c810584a660518c4c020325a430",
+            "amount": 76000,
+            "outcomeIndex": 1,
+            "pseudonym": "Ems123"
+          },
+          {
+            "proxyWallet": "0xd9e6cc01ddd41557769c6a3851a9606e97a7f893",
+            "amount": 22920,
+            "outcomeIndex": 1,
+            "pseudonym": "Toemsta"
+          },
+          {
+            "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+            "amount": 20590.562173,
+            "outcomeIndex": 1,
+            "pseudonym": "RN1",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png"
+          },
+          {
+            "proxyWallet": "0x20ff164ef085d860343d2f8c3b6d50b8076cc160",
+            "amount": 20000,
+            "outcomeIndex": 1,
+            "pseudonym": "0x20FF164ef085d860343D2F8c3b6d50b8076cC160-1767839486311"
+          },
+          {
+            "proxyWallet": "0xa0f21e6d351baa9185716b5c00c2925ed9621848",
+            "amount": 17888,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xbf5160f50a5ee187a53aa3a3dfca5f40aeb84a30",
+            "amount": 10638.29787,
+            "outcomeIndex": 1,
+            "pseudonym": "wagwag"
+          },
+          {
+            "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
+            "amount": 9572.536146,
+            "outcomeIndex": 1,
+            "pseudonym": "knedloveprovelo"
+          },
+          {
+            "proxyWallet": "0x5d58e38cd0a7e6f5fa67b7f9c2f70dd70df09a15",
+            "amount": 8160.36,
+            "outcomeIndex": 1,
+            "pseudonym": "Dhdhsjsj"
+          },
+          {
+            "proxyWallet": "0xe5c1d2dd50c43f7eaeb1031b4dabeb803aa57487",
+            "amount": 8090.574249,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x2ec0ca747510709abb6a5e9342fd6632e05bf7aa",
+            "amount": 7337.62,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x661daf6af6d884012dd6db73c09d72e8be224dc6",
+            "amount": 6297.839839,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x41b48b4145d568604106d4a78bd333a8c974de82",
+            "amount": 6202.3,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x7634648b97e3f9fe56b65ed61a4f1fbf0c241b96",
+            "amount": 4972.340424,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x817bd11dac76d41df5459a985e9e9c8a9e2e3c25",
+            "amount": 4375.726336,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x13414a77a4be48988851c73dfd824d0168e70853",
+            "amount": 4045.924239,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xf3ae272fd858a27733081d9fb1d1058c0bf87b92",
+            "amount": 3999.982216,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+            "amount": 3891.99,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xfe7a53a3841ff4d926e1101e166988e5334aabb7",
+            "amount": 3000,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 5351.7536119999995,
+        "noTotalAmount": 638951.9562850002,
+        "whaleConcentration": 74.39440366867142,
+        "smartMoneyDirection": "NO",
+        "top10Concentration": 91.81904959628022
+      },
+      "timestamp": 1768151278718
+    }
+  },
+  {
+    "market": {
+      "marketId": "1096964",
+      "eventId": "1096964",
+      "conditionId": "0x0722102b758fff894d63c9d44ed47f24c99ca0486d746c82a5d06659c2e7d116",
+      "eventSlug": "nba-lac-bkn-2026-01-09",
+      "marketSlug": "nba-lac-bkn-2026-01-09",
+      "title": "Clippers vs. Nets",
+      "sport": "NBA",
+      "startTime": "2026-01-10 00:30:00+00",
+      "volume": 1570040.754631,
+      "prices": {
+        "yes": 1,
+        "no": 0
+      },
+      "teamA": {
+        "name": "LA Clippers"
+      },
+      "teamB": {
+        "name": "Brooklyn Nets"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0x787e406dff3c661840b0cf4db92ec85d1602adfd",
+            "amount": 1000,
+            "outcomeIndex": 0,
+            "pseudonym": "chuan1"
+          },
+          {
+            "proxyWallet": "0x5a2bb79b06b64edf7cf80497f9de0d961609ae0c",
+            "amount": 847.457626,
+            "outcomeIndex": 0,
+            "pseudonym": "jkldskwoej"
+          },
+          {
+            "proxyWallet": "0x031badf69e14d98fb08c7c2a4c3fe1095d49ea7a",
+            "amount": 600,
+            "outcomeIndex": 0,
+            "pseudonym": "velleity"
+          },
+          {
+            "proxyWallet": "0xa2fbe50cc00bf9d6dab431d3b3fa96b42c5b702e",
+            "amount": 440.677965,
+            "outcomeIndex": 0,
+            "pseudonym": "CloudPineDrift"
+          },
+          {
+            "proxyWallet": "0x7b71470c04fffb6bac45725904ac0d7db0bba5ab",
+            "amount": 400.7915,
+            "outcomeIndex": 0,
+            "pseudonym": "fengke"
+          },
+          {
+            "proxyWallet": "0xfaad328a79a356e0680483b08096211b1f235947",
+            "amount": 400,
+            "outcomeIndex": 0,
+            "pseudonym": "0xFAAd328a79A356E0680483B08096211B1f235947-1764340162848"
+          },
+          {
+            "proxyWallet": "0x304230dbf29fe427828932d2ae275d67bf6cb5a1",
+            "amount": 300,
+            "outcomeIndex": 0,
+            "pseudonym": "olegmorshun"
+          },
+          {
+            "proxyWallet": "0x90631f472cbc5338d3fd18a1d3fa85893e61bcdb",
+            "amount": 237.288134,
+            "outcomeIndex": 0,
+            "pseudonym": "Nm6XqLp9JwR"
+          },
+          {
+            "proxyWallet": "0x06d52b01c053f53f3bde5bbe77fa2e1561640417",
+            "amount": 222.238129,
+            "outcomeIndex": 0,
+            "pseudonym": "0x06D52b01C053F53f3BDe5bbe77FA2e1561640417-1766022086380"
+          },
+          {
+            "proxyWallet": "0x83544f6667a34179a21b2a822ac25263265bb291",
+            "amount": 208.333332,
+            "outcomeIndex": 0,
+            "pseudonym": "Nepalec"
+          },
+          {
+            "proxyWallet": "0xfdc5bae1eecdf103578488b9fb5be4163d26ca8a",
+            "amount": 204.644065,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x84f68db2470af4b9dbbe83e2f5a6f31fd3c0e46c",
+            "amount": 200,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xb56809f91f59479e1e60ac4c99841f463ddce4cf",
+            "amount": 172.491524,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xd990e33b5d206226236d3bd9546353d86d703efb",
+            "amount": 172.322031,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xfc871ee1e44632d4035dc84c48afba66d36baed9",
+            "amount": 172.16949,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x4fd8783e4f4d115575c9232353090640b1100a57",
+            "amount": 171.983048,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xba1279b227760f3d0d43ed9be9d5cc9a898af522",
+            "amount": 171.915253,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xbe22adc115c5c0018853c80f3987208c3a8a07dd",
+            "amount": 171.389829,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x2d220b2784926276d35becc6be5a56d83a7eb546",
+            "amount": 171.101692,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x19e78ce25c8f34835834436447e5684052d2254f",
+            "amount": 170.949151,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0x92672c80d36dcd08172aa1e51dface0f20b70f9a",
+            "amount": 39999.961182,
+            "outcomeIndex": 1,
+            "pseudonym": "ckw"
+          },
+          {
+            "proxyWallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+            "amount": 37712.497755,
+            "outcomeIndex": 1,
+            "pseudonym": "cigarettes"
+          },
+          {
+            "proxyWallet": "0xbf5160f50a5ee187a53aa3a3dfca5f40aeb84a30",
+            "amount": 29299.314925,
+            "outcomeIndex": 1,
+            "pseudonym": "wagwag"
+          },
+          {
+            "proxyWallet": "0xbce95071a5a1c15a65bc257d38ba3bed06e903e9",
+            "amount": 17319.999,
+            "outcomeIndex": 1,
+            "pseudonym": "NebulaBite",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2716373-5831dc31-f02a-4ef2-8c6a-25abd45ef5d4.jpg"
+          },
+          {
+            "proxyWallet": "0xfe7a53a3841ff4d926e1101e166988e5334aabb7",
+            "amount": 16000,
+            "outcomeIndex": 1,
+            "pseudonym": "GGK666"
+          },
+          {
+            "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
+            "amount": 15287.020483,
+            "outcomeIndex": 1,
+            "pseudonym": "knedloveprovelo"
+          },
+          {
+            "proxyWallet": "0xcd9bc2939f0dac121f6ccde59cca5e0b6a91414d",
+            "amount": 12499.991901,
+            "outcomeIndex": 1,
+            "pseudonym": "BITCOINTO500K"
+          },
+          {
+            "proxyWallet": "0x57980cb96a8ffd43eb71cd94947de3f5c768ab44",
+            "amount": 10000,
+            "outcomeIndex": 1,
+            "pseudonym": "quinniga"
+          },
+          {
+            "proxyWallet": "0x80f7cb20463c3b6ce910d2ceec2b3c4e64463d6a",
+            "amount": 7262.2,
+            "outcomeIndex": 1,
+            "pseudonym": "makaka.moment",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4165501-f99f3682-5f43-401a-99af-f0f7a4e1174b.jpg"
+          },
+          {
+            "proxyWallet": "0x371a0d623144ad877c81614afe52c356619c34b0",
+            "amount": 6684.94645,
+            "outcomeIndex": 1,
+            "pseudonym": "St-Qc"
+          },
+          {
+            "proxyWallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+            "amount": 6507,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x38faf5932f8339b700c56058c0e46848ae7f87b5",
+            "amount": 6100.789887,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x90ba2e712cdb5d167f22ef2053333ff1437463f3",
+            "amount": 6100,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xf3ae272fd858a27733081d9fb1d1058c0bf87b92",
+            "amount": 6000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xbc491926b31ee9018e77faed82f7b64451a9ffd6",
+            "amount": 5506.27172,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x97317409bfd9e992611596acee93e8b938019b35",
+            "amount": 5452.713013,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x8400a235d21a63f2052ff21863e399357c639885",
+            "amount": 5000.001108,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x4c14a5f264c4cf8610bd11122918fc28c44c7bc1",
+            "amount": 4606.333331,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x72b40c0012682ef52228ad53ef955f9e4f177d67",
+            "amount": 4312.494899,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x977ac477cb8d2f3c9d357afed779ad7570acf2ca",
+            "amount": 4000,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 6435.752769000001,
+        "noTotalAmount": 245651.53565399998,
+        "whaleConcentration": 43.42116263487609,
+        "smartMoneyDirection": "NO",
+        "top10Concentration": 78.03753993811112
+      },
+      "timestamp": 1768151279310
+    }
+  },
+  {
+    "market": {
+      "marketId": "1104779",
+      "eventId": "1104779",
+      "conditionId": "0x05d2ffddc558c2c3b5b89de64f700ee0885fdea82440a895cd79bd8cf964d1a3",
+      "eventSlug": "nba-cha-uta-2026-01-10",
+      "marketSlug": "nba-cha-uta-2026-01-10",
+      "title": "Hornets vs. Jazz",
+      "sport": "NBA",
+      "startTime": "2026-01-11 02:30:00+00",
+      "volume": 1261146.906192,
+      "prices": {
+        "yes": 1,
+        "no": 0
+      },
+      "teamA": {
+        "name": "Charlotte Hornets"
+      },
+      "teamB": {
+        "name": "Utah Jazz"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0x56e2c952f9b953521f08ef0eb0c15473a1fa4b88",
+            "amount": 80000,
+            "outcomeIndex": 0,
+            "pseudonym": "NBA101"
+          },
+          {
+            "proxyWallet": "0xd6966eb1ae7b52320ba7ab1016680198c9e08a49",
+            "amount": 27917.44,
+            "outcomeIndex": 0,
+            "pseudonym": "EIf",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2970187-7a242ca5-ce20-4cbd-a772-b93edd01736c.png"
+          },
+          {
+            "proxyWallet": "0xb7a63200d44c67c3bb44d8bda9f8e40b138189b2",
+            "amount": 10999.995552,
+            "outcomeIndex": 0,
+            "pseudonym": "abUser123"
+          },
+          {
+            "proxyWallet": "0xe20a1538293903b746ffe6c4ce2d5c3c0300e469",
+            "amount": 8523.98947,
+            "outcomeIndex": 0,
+            "pseudonym": "gopatriots"
+          },
+          {
+            "proxyWallet": "0x681dbf268dbe1db965f76cd7663ddf23f6f408aa",
+            "amount": 7390.371662,
+            "outcomeIndex": 0,
+            "pseudonym": "RCSun"
+          },
+          {
+            "proxyWallet": "0xba414f88e2275cb5b9de1f48ff381c3e759d5f4f",
+            "amount": 7000,
+            "outcomeIndex": 0,
+            "pseudonym": "reeeeeeeeeeee"
+          },
+          {
+            "proxyWallet": "0x87b89db942ac3385a9508f0bed316136ea89e1a1",
+            "amount": 2698.412697,
+            "outcomeIndex": 0,
+            "pseudonym": "bcc12"
+          },
+          {
+            "proxyWallet": "0x2f1942661895a824c71993c372461c1b02832ecc",
+            "amount": 2000,
+            "outcomeIndex": 0,
+            "pseudonym": "suonkute",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3299390-ff2af7da-aae7-404b-9b6b-be4eedc34589.webp"
+          },
+          {
+            "proxyWallet": "0x0062a06ec4189ea263dd0296daaab8449797841b",
+            "amount": 1000,
+            "outcomeIndex": 0,
+            "pseudonym": "runtu"
+          },
+          {
+            "proxyWallet": "0x5582cfbc40a31bc0ddda831d8e3d254636166af1",
+            "amount": 1000,
+            "outcomeIndex": 0,
+            "pseudonym": "hoannguyen92",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3471799-3b2d74ac-63c9-4696-971d-13f93a41a331.jpg"
+          },
+          {
+            "proxyWallet": "0xc07a2b75554614eca6b564c4936af7c0ccf6fb98",
+            "amount": 999.990809,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xf1554a6292c37db1cd007102b0f55bd7e7ac76bd",
+            "amount": 995.3125,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xd6f44883f664d7dc963d8b89c5a0689fdd330566",
+            "amount": 764.650049,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x4feabe557d8d5ab92648b7efab1f8b4f8feded47",
+            "amount": 499.993512,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x93ed2c08bac6e2f926cc71e3b47256b877c9c396",
+            "amount": 455.389272,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xae4072141764e6e592fb1c603aa8b477b0f11e1f",
+            "amount": 405.6795,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x1b0bf81fd20cd5d1f445cc56e71fbafe8ebacdfc",
+            "amount": 329.126314,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xc8f9f5cdfaaf7067e8d42c1911ce087f6b0cf225",
+            "amount": 300,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x06e64174adde7055e56c4dbb75596098e4c787e6",
+            "amount": 207,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xa4595e7a2967ccdc396cda3820c64eb3efd6821c",
+            "amount": 157,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+            "amount": 89162.375353,
+            "outcomeIndex": 1,
+            "pseudonym": "ShucksIt69"
+          },
+          {
+            "proxyWallet": "0x27cb4e127fbfd433122ff801efc10954f33b169e",
+            "amount": 60000.515159,
+            "outcomeIndex": 1,
+            "pseudonym": "crudeoilmoney"
+          },
+          {
+            "proxyWallet": "0xfaba37f1854ebbd6a130e41d03485c0c1e2051de",
+            "amount": 31802.750375,
+            "outcomeIndex": 1,
+            "pseudonym": "0xFabA37f1854eBbd6a130E41d03485c0c1e2051dE-1762017765100"
+          },
+          {
+            "proxyWallet": "0x52b4c780a1235a767ee188dd1887a196714834a8",
+            "amount": 25000,
+            "outcomeIndex": 1,
+            "pseudonym": "steven8813"
+          },
+          {
+            "proxyWallet": "0x239b4bebe31cb862d2fc7e4d1ff5d0ccb3e2964a",
+            "amount": 22487.119221,
+            "outcomeIndex": 1,
+            "pseudonym": "0x239B4BebE31Cb862d2fc7E4d1Ff5D0ccB3E2964A-1767412360078"
+          },
+          {
+            "proxyWallet": "0x8cbb318b8863898f0907dee7113453eb75faacb2",
+            "amount": 18260,
+            "outcomeIndex": 1,
+            "pseudonym": "0x8cbb318B8863898f0907deE7113453EB75FaACB2-1763215592534"
+          },
+          {
+            "proxyWallet": "0xf4a4eab0af4fa0c94ffcc05b9df184edb4193117",
+            "amount": 15795.308567,
+            "outcomeIndex": 1,
+            "pseudonym": "b9761"
+          },
+          {
+            "proxyWallet": "0x8980903d2a8f27323e4873178c7782d92cc8d4f4",
+            "amount": 14499.925625,
+            "outcomeIndex": 1,
+            "pseudonym": "emkayfd"
+          },
+          {
+            "proxyWallet": "0xbeeff824fe6ed3ba2253a81a8eb17984e7e5531d",
+            "amount": 12748.850749,
+            "outcomeIndex": 1,
+            "pseudonym": "neargrow"
+          },
+          {
+            "proxyWallet": "0xbce95071a5a1c15a65bc257d38ba3bed06e903e9",
+            "amount": 12669.162337,
+            "outcomeIndex": 1,
+            "pseudonym": "NebulaBite",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2716373-5831dc31-f02a-4ef2-8c6a-25abd45ef5d4.jpg"
+          },
+          {
+            "proxyWallet": "0x405df433d5ebac98d78a285f6d2a5b41a2d52bda",
+            "amount": 10964.081665,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x1033135cf2ff0171bc0e1c6170808274f70ed851",
+            "amount": 10000.005293,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+            "amount": 10000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x17e5540881d89eeed7ec62b40720a76ffafff205",
+            "amount": 9999.9877,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xb45d9c6dc1ed17b1da83a7eb4d638710b371a406",
+            "amount": 7084.5523,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x34149910b7654215e955bb2a6dfd1dcf8541067a",
+            "amount": 5369.41,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x90ba2e712cdb5d167f22ef2053333ff1437463f3",
+            "amount": 5050,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x92d8939d2f2503fb196ce25a6f3a9167f17c0924",
+            "amount": 4849.992536,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd33459882d3c1d7d4a3e100e1572d1ef4ac1fcc2",
+            "amount": 4609.083333,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x220b4c0cfa867418cb1620eddb91c97998454659",
+            "amount": 4504.986876,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 153644.35133699997,
+        "noTotalAmount": 374858.10708899994,
+        "whaleConcentration": 56.74204001474654,
+        "smartMoneyDirection": "NO",
+        "top10Concentration": 85.32717484608298
+      },
+      "timestamp": 1768151279301
+    }
+  },
+  {
+    "market": {
+      "marketId": "1087124",
+      "eventId": "1087124",
+      "conditionId": "0x96594cd0e3bb40760ccf4ddf9b2168b062723625b68b73ca1fff10342d9b7782",
+      "eventSlug": "nba-mia-chi-2026-01-08",
+      "marketSlug": "nba-mia-chi-2026-01-08",
+      "title": "Heat vs. Bulls",
+      "sport": "NBA",
+      "startTime": "2026-01-11T17:07:03.233Z",
+      "volume": 1223132.220718,
+      "liquidity": 17065.1859,
+      "prices": {
+        "yes": 0.68,
+        "no": 0.32
+      },
+      "teamA": {
+        "name": "Miami Heat"
+      },
+      "teamB": {
+        "name": "Chicago Bulls"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+            "amount": 45736.096891,
+            "outcomeIndex": 0,
+            "pseudonym": "sovereign2013"
+          },
+          {
+            "proxyWallet": "0xe12a92092fdd4b94ca344a0d98db66f193be67ef",
+            "amount": 29979.951274,
+            "outcomeIndex": 0,
+            "pseudonym": "MikelenoskiSide2"
+          },
+          {
+            "proxyWallet": "0x8f037a2e4fd49d11267f4ab874ab7ba745ac64d6",
+            "amount": 26434.85,
+            "outcomeIndex": 0,
+            "pseudonym": "Anointed-Connect"
+          },
+          {
+            "proxyWallet": "0xe734d5a008576905ec700019e530a7cc8da88f6a",
+            "amount": 19999.969021,
+            "outcomeIndex": 0,
+            "pseudonym": "G1MAIN"
+          },
+          {
+            "proxyWallet": "0xba414f88e2275cb5b9de1f48ff381c3e759d5f4f",
+            "amount": 19534.106152,
+            "outcomeIndex": 0,
+            "pseudonym": "reeeeeeeeeeee"
+          },
+          {
+            "proxyWallet": "0x3f5ea0a8053e81ce2f59814118869322c35fe7db",
+            "amount": 15969.596578,
+            "outcomeIndex": 0,
+            "pseudonym": "piggyery"
+          },
+          {
+            "proxyWallet": "0x87fa0143851e2f16b49cb387e8c19b0563a7fc74",
+            "amount": 13632.72057,
+            "outcomeIndex": 0,
+            "pseudonym": "NBA3"
+          },
+          {
+            "proxyWallet": "0xde0463ea7f611b065e8ab06bbfbddad75e6dfa37",
+            "amount": 12202.00333,
+            "outcomeIndex": 0,
+            "pseudonym": "mwenya"
+          },
+          {
+            "proxyWallet": "0x2652dd1140c3b9e69c8852264cf8dbe727672a1d",
+            "amount": 9863.67,
+            "outcomeIndex": 0,
+            "pseudonym": "Punisher2022",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3156532-08ecb862-95bc-4f29-b604-6a68a38f0b33.jpeg"
+          },
+          {
+            "proxyWallet": "0xe9cbb1c9b3f7f411dd4fdf2ea7afa780c8b4d096",
+            "amount": 9664.097236,
+            "outcomeIndex": 0,
+            "pseudonym": "lameloballer"
+          },
+          {
+            "proxyWallet": "0x84f7860753f0fb62e7e786523690661c4255ade1",
+            "amount": 9059.090521,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x0f8ba65d508c9d30c72d78134ce102183e4e77d4",
+            "amount": 7899.92125,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xf93c42e8fdf183417e36302535b0e77e2cbdae06",
+            "amount": 7000,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x344be5d62f3dc2f412395ebbd45ac89f8bf0f7fc",
+            "amount": 6531,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x1455445e9a775cfa3fe9fc4b02bb4d2f682ae5cd",
+            "amount": 5699.9675,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xc78e56adc9df4e134f6a805542ed2e204f916a27",
+            "amount": 5239.42,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x177f90ff21cd801fdfe390c959bfbecfa280956c",
+            "amount": 4789.294502,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x97317409bfd9e992611596acee93e8b938019b35",
+            "amount": 4726.741452,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x9f138019d5481fdc5c59b93b0ae4b9b817cce0fd",
+            "amount": 4639.532095,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+            "amount": 4549.952774,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0xcd9bc2939f0dac121f6ccde59cca5e0b6a91414d",
+            "amount": 74099.985647,
+            "outcomeIndex": 1,
+            "pseudonym": "BITCOINTO500K"
+          },
+          {
+            "proxyWallet": "0xedc8b2023897dad9df5b2f47ce79b2cdf1b6cca9",
+            "amount": 34976.966072,
+            "outcomeIndex": 1,
+            "pseudonym": "XORP",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4541995-87102e67-4773-4dc6-ab7e-a356e17ae5bd.webp"
+          },
+          {
+            "proxyWallet": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+            "amount": 25674.823082,
+            "outcomeIndex": 1,
+            "pseudonym": "ShucksIt69"
+          },
+          {
+            "proxyWallet": "0xe258a1d0b72a40d6ec8f4ac9432a4275ff092330",
+            "amount": 15005,
+            "outcomeIndex": 1,
+            "pseudonym": "mmmmmmh"
+          },
+          {
+            "proxyWallet": "0xb889590a2fab0c810584a660518c4c020325a430",
+            "amount": 14847.261435,
+            "outcomeIndex": 1,
+            "pseudonym": "Ems123"
+          },
+          {
+            "proxyWallet": "0x12fd9ae0d1318d1728adddf34dbd1ecb577990c0",
+            "amount": 14200.935482,
+            "outcomeIndex": 1,
+            "pseudonym": "jebak"
+          },
+          {
+            "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+            "amount": 13705,
+            "outcomeIndex": 1,
+            "pseudonym": "elkmonkey"
+          },
+          {
+            "proxyWallet": "0x2487ba90548575abd8b4a33ad927ee304f66fa80",
+            "amount": 11999.961432,
+            "outcomeIndex": 1,
+            "pseudonym": "crag1"
+          },
+          {
+            "proxyWallet": "0x14619de097b1fbe058d6d36282662c20958a30a1",
+            "amount": 10382,
+            "outcomeIndex": 1,
+            "pseudonym": "saksaks12"
+          },
+          {
+            "proxyWallet": "0xe60a9b0be459d9849bc2339dac20517639ae6a47",
+            "amount": 9292.220668,
+            "outcomeIndex": 1,
+            "pseudonym": "0xb7511d7b0dcb75ffad0507cbac7223653d08915"
+          },
+          {
+            "proxyWallet": "0x4331d40a71c7d246386954ce24814514539439e5",
+            "amount": 8599.931995,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xbf5160f50a5ee187a53aa3a3dfca5f40aeb84a30",
+            "amount": 8064.516128,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x062a9e807e2c64380d6935969780fef5b753c2a3",
+            "amount": 8000.112691,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x9c42eb8b88cf9c1d267e905b6904aca205f2da3c",
+            "amount": 7898.940834,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xc8ec6d4cef5c5fe8409ef69303c37f05b678e8f1",
+            "amount": 4838.709676,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x9e2f652edcc5f944f33f68410d10ea4464a9ec47",
+            "amount": 4221.914254,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x6efedcf6de18fa4f3da2964a07e3760ef4d4c249",
+            "amount": 4000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xa051370fbcb5874ed0f0b6703870774ca48b54eb",
+            "amount": 3548.387095,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xe542afd3881c4c330ba0ebbb603bb470b2ba0a37",
+            "amount": 3196.243254,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x12d9a4302be53dd8c9f13aabfbdf3518f1c001bb",
+            "amount": 3125,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 263151.98114600003,
+        "noTotalAmount": 279677.90974499995,
+        "whaleConcentration": 43.642156952180436,
+        "smartMoneyDirection": "NEUTRAL",
+        "top10Concentration": 78.69891139723215
+      },
+      "timestamp": 1768151279218
+    }
+  },
+  {
+    "market": {
+      "marketId": "1081433",
+      "eventId": "1081433",
+      "conditionId": "0x4df5dcf303454c2087067fc4b27201a741707fb8dd768e6d96c24c7eb7adea63",
+      "eventSlug": "nba-phx-mem-2026-01-07",
+      "marketSlug": "nba-phx-mem-2026-01-07",
+      "title": "Suns vs. Grizzlies",
+      "sport": "NBA",
+      "startTime": "2026-01-08 01:00:00+00",
+      "volume": 1092010.092656,
+      "prices": {
+        "yes": 1,
+        "no": 0
+      },
+      "teamA": {
+        "name": "Phoenix Suns"
+      },
+      "teamB": {
+        "name": "Memphis Grizzlies"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xd340de189b3ad4ccb47621fb6fbeb2573c5adc9c",
+            "amount": 444.444443,
+            "outcomeIndex": 0,
+            "pseudonym": "SilverFalconTrail"
+          },
+          {
+            "proxyWallet": "0xd1008c0b83d2d969440ba11be6d5c65727dc3960",
+            "amount": 380.952378,
+            "outcomeIndex": 0,
+            "pseudonym": "WarmStoneRunner"
+          },
+          {
+            "proxyWallet": "0x18e1e6ff87b33fb55059e21942f5cfa3feb6a5ee",
+            "amount": 343.75,
+            "outcomeIndex": 0,
+            "pseudonym": "MossyRidgeway"
+          },
+          {
+            "proxyWallet": "0xf6f33d0f304710758d06c4a38cd4ecc8832d4f98",
+            "amount": 343.75,
+            "outcomeIndex": 0,
+            "pseudonym": "bLp7qT9M2Rk54"
+          },
+          {
+            "proxyWallet": "0x5f76e582cb4ada7060e3b1a53094d1d3ed36c081",
+            "amount": 253.968251,
+            "outcomeIndex": 0,
+            "pseudonym": "RiverstoneSketch"
+          },
+          {
+            "proxyWallet": "0x8c6f510662408b55c5c73fc15f01fd896a542154",
+            "amount": 190.476189,
+            "outcomeIndex": 0,
+            "pseudonym": "StoneMeadowTrail"
+          },
+          {
+            "proxyWallet": "0xb1b8c0eb66c1c3f96e2364883d4c8a9b3d26df9e",
+            "amount": 125,
+            "outcomeIndex": 0,
+            "pseudonym": "QuietFalconTrace"
+          },
+          {
+            "proxyWallet": "0x32abfedaecfa83f4f63a3110388fee98135f3555",
+            "amount": 93.75,
+            "outcomeIndex": 0,
+            "pseudonym": "MossLeafCourier"
+          },
+          {
+            "proxyWallet": "0x3876a4840f46a1329179a34442d27db8642e4802",
+            "amount": 93.75,
+            "outcomeIndex": 0,
+            "pseudonym": "RkL7Xp3M5z"
+          },
+          {
+            "proxyWallet": "0xca3182da45f8e9ec7285b0c8d053231e11520723",
+            "amount": 60,
+            "outcomeIndex": 0,
+            "pseudonym": "truefaithli"
+          },
+          {
+            "proxyWallet": "0x309b01414375a41939fac27fd1b2909b8ee33b7b",
+            "amount": 50,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x19b335a130f90dbf53bd10c19719441804838405",
+            "amount": 50,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x0ccd513bb7f1c488004ee206a413c8a5d6469603",
+            "amount": 50,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x8a52a7597a67b634370d0dcafee5e31de2a0e7b7",
+            "amount": 32.31,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x97334959432857d0fbbb185192ee315e91beb32c",
+            "amount": 31.746029,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x885f394114536f6fbde7d388de58499a1de808a9",
+            "amount": 31.746029,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xa4b2ab0df9a1a928ee2c385eeedc5e4d5ab1fdce",
+            "amount": 31.25,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x25d1301ec3c5b6585054feda8ffa255b78149af7",
+            "amount": 31.25,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x5a3b45b1d9fd8a9b7d6946786e8cdc8c7008ef97",
+            "amount": 26.15,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x5a5089143d5a0cac4096b059213a7b0bd6183da7",
+            "amount": 7.8125,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
+            "amount": 192229.843324,
+            "outcomeIndex": 1,
+            "pseudonym": "DrPufferfish"
+          },
+          {
+            "proxyWallet": "0xcd9bc2939f0dac121f6ccde59cca5e0b6a91414d",
+            "amount": 66253.860812,
+            "outcomeIndex": 1,
+            "pseudonym": "BITCOINTO500K"
+          },
+          {
+            "proxyWallet": "0xc660ae71765d0d9eaf5fa8328c1c959841d2bd28",
+            "amount": 29400,
+            "outcomeIndex": 1,
+            "pseudonym": "ChangoChango"
+          },
+          {
+            "proxyWallet": "0xcc6385889a3466743f0ce6bd46a2b20b86d0f1c7",
+            "amount": 11384.28571,
+            "outcomeIndex": 1,
+            "pseudonym": "0xcC6385889a3466743f0ce6bD46a2B20b86d0F1C7-1764772570712"
+          },
+          {
+            "proxyWallet": "0x986c0ba5ae79c5cf171cfa8e85afe186412a3180",
+            "amount": 10753.731604,
+            "outcomeIndex": 1,
+            "pseudonym": "Undisputa"
+          },
+          {
+            "proxyWallet": "0x088e9e9e70240212a1bae73269598fb0fc96bc56",
+            "amount": 8222.25,
+            "outcomeIndex": 1,
+            "pseudonym": "avocato",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-549578-c8e9e057-64cb-489d-b8e7-eca529e523e1.jpg"
+          },
+          {
+            "proxyWallet": "0x34149910b7654215e955bb2a6dfd1dcf8541067a",
+            "amount": 3000,
+            "outcomeIndex": 1,
+            "pseudonym": "xiaohuangxiaohuang",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3865713-d744785f-8b93-4378-ba2e-d4c3b4b0a49b.jpeg"
+          },
+          {
+            "proxyWallet": "0x9c76cdb43fb46454da005fbc82047a64a18ec926",
+            "amount": 3000,
+            "outcomeIndex": 1,
+            "pseudonym": "Bagwell306"
+          },
+          {
+            "proxyWallet": "0x323deeee08432fab2e4f03e1e2d3ebe70ddda536",
+            "amount": 2900,
+            "outcomeIndex": 1,
+            "pseudonym": "memeboys"
+          },
+          {
+            "proxyWallet": "0x70a82d8ca3fe0a931ddc0ffc36e4a0fd5f336dfd",
+            "amount": 2639.797057,
+            "outcomeIndex": 1,
+            "pseudonym": "CobraV"
+          },
+          {
+            "proxyWallet": "0x9c4db21669d5c5b48c0655761b4fedd646e6168c",
+            "amount": 2500,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x41b48b4145d568604106d4a78bd333a8c974de82",
+            "amount": 2499.9875,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x369783571194970f07e35d2c2ccc29693158f189",
+            "amount": 2062.246841,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+            "amount": 1939.922268,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xbce95071a5a1c15a65bc257d38ba3bed06e903e9",
+            "amount": 1850.017637,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xa051370fbcb5874ed0f0b6703870774ca48b54eb",
+            "amount": 1612.903224,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x22e645acff2bbb2cd7a74462f8779eb6f53d409f",
+            "amount": 1500,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xfe7a53a3841ff4d926e1101e166988e5334aabb7",
+            "amount": 1499.994,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xbc651060abb7c5f99988c352c8f4f8b2fb2696c8",
+            "amount": 1428.571427,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x661daf6af6d884012dd6db73c09d72e8be224dc6",
+            "amount": 1323,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 2672.105819,
+        "noTotalAmount": 348000.4114040001,
+        "whaleConcentration": 82.42814499580108,
+        "smartMoneyDirection": "NO",
+        "top10Concentration": 94.70762419536915
+      },
+      "timestamp": 1768151279643
+    }
+  },
+  {
+    "market": {
+      "marketId": "1114224",
+      "eventId": "1114224",
+      "conditionId": "0x4380fb5fe340a5fee2ba26db908c05c56259d43603eb24353dcf0e39587e0569",
+      "eventSlug": "nba-nop-orl-2026-01-11",
+      "marketSlug": "nba-nop-orl-2026-01-11",
+      "title": "Pelicans vs. Magic",
+      "sport": "NBA",
+      "startTime": "2026-01-11 20:00:00+00",
+      "volume": 567001.85118,
+      "liquidity": 474348.563,
+      "prices": {
+        "yes": 0.305,
+        "no": 0.695
+      },
+      "teamA": {
+        "name": "New Orleans Pelicans"
+      },
+      "teamB": {
+        "name": "Orlando Magic"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xd538574dea2cf51f8b0168e95be0e9802ee2cc31",
+            "amount": 22000,
+            "outcomeIndex": 0,
+            "pseudonym": "icryptoscholar"
+          },
+          {
+            "proxyWallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
+            "amount": 13334.724174,
+            "outcomeIndex": 0,
+            "pseudonym": "DrPufferfish"
+          },
+          {
+            "proxyWallet": "0x9e2f652edcc5f944f33f68410d10ea4464a9ec47",
+            "amount": 11230.991423,
+            "outcomeIndex": 0,
+            "pseudonym": "cccccccccccccccccccccccccccc"
+          },
+          {
+            "proxyWallet": "0x72983c97f41bb9c70e6ec51597f050168b0dfe8d",
+            "amount": 8101.054259,
+            "outcomeIndex": 0,
+            "pseudonym": "55779911"
+          },
+          {
+            "proxyWallet": "0x73204a323ce847894dfc04144211524306c128b4",
+            "amount": 6999.95284,
+            "outcomeIndex": 0,
+            "pseudonym": "TrentaColdBrew",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1395352-12e983f8-5065-42fd-8351-8fdccbea6735.jpeg"
+          },
+          {
+            "proxyWallet": "0x817bd11dac76d41df5459a985e9e9c8a9e2e3c25",
+            "amount": 5399.870671,
+            "outcomeIndex": 0,
+            "pseudonym": "WienerProcess",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1689071-87b52f2c-ea1c-4b98-b2c0-64093eb99ef5.png"
+          },
+          {
+            "proxyWallet": "0x35bdcc1e9462ecefa1a79c84fd1d68b0970b1ecf",
+            "amount": 4599.785514,
+            "outcomeIndex": 0,
+            "pseudonym": "33b8im"
+          },
+          {
+            "proxyWallet": "0x7a60ab08315573770bd102bdade2148706643170",
+            "amount": 3632.49714,
+            "outcomeIndex": 0,
+            "pseudonym": "cryptorylai"
+          },
+          {
+            "proxyWallet": "0xa051370fbcb5874ed0f0b6703870774ca48b54eb",
+            "amount": 1935.483869,
+            "outcomeIndex": 0,
+            "pseudonym": "RollsRoycsUmbrella"
+          },
+          {
+            "proxyWallet": "0xe3ff02e324912152479b1a63bf903ddad290805c",
+            "amount": 1612.903224,
+            "outcomeIndex": 0,
+            "pseudonym": "0xe3Ff02E324912152479B1A63bf903ddAD290805C-1720947586435"
+          },
+          {
+            "proxyWallet": "0xba6fdcaa89a0f8b3728f6c0cfccf062b78aa0442",
+            "amount": 1612.903224,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x60de498c03cdedd5be0a69c401466130ac386453",
+            "amount": 1612.903223,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+            "amount": 1499.405134,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xe7a9c7767dcb65015cc83d37ec317f50abb56ee2",
+            "amount": 1498,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x67f8e10f7afa942a29cafd0e3cffbb1c1841f8a2",
+            "amount": 1494,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xd8611c6e9d35b86dd12a6082ad46d8e66273d7ff",
+            "amount": 1492,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xdb76e346404e3858158e26a218da020c173436e1",
+            "amount": 1492,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x15aaccde7a0211978f840b208d22d2a78f5fedc8",
+            "amount": 1491,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x449697bce397b5c142dc6bf1590ead96600f920e",
+            "amount": 1489,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x530346b47bc4285d9862890128215fea1c1d999e",
+            "amount": 1487,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0x1d56cdc458f373847e1e5ee31090c76abb747486",
+            "amount": 22000,
+            "outcomeIndex": 1,
+            "pseudonym": "KPSingh"
+          },
+          {
+            "proxyWallet": "0xe60a9b0be459d9849bc2339dac20517639ae6a47",
+            "amount": 14854.915558,
+            "outcomeIndex": 1,
+            "pseudonym": "0xb7511d7b0dcb75ffad0507cbac7223653d08915"
+          },
+          {
+            "proxyWallet": "0x239b4bebe31cb862d2fc7e4d1ff5d0ccb3e2964a",
+            "amount": 14722.42,
+            "outcomeIndex": 1,
+            "pseudonym": "0x239B4BebE31Cb862d2fc7E4d1Ff5D0ccB3E2964A-1767412360078"
+          },
+          {
+            "proxyWallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+            "amount": 6500,
+            "outcomeIndex": 1,
+            "pseudonym": "one8tyfive",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-127255-792bc95e-3338-4e06-895d-b275e6ddd6e6.jpg"
+          },
+          {
+            "proxyWallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+            "amount": 6484.166626,
+            "outcomeIndex": 1,
+            "pseudonym": "VeryLucky888"
+          },
+          {
+            "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+            "amount": 5333.754495,
+            "outcomeIndex": 1,
+            "pseudonym": "sovereign2013"
+          },
+          {
+            "proxyWallet": "0x94fa5631048f10e7e6d30a669b0a5020781b989e",
+            "amount": 4841,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x2c28cc0884a793b1fbfde9c6881f6bf549db7ba5",
+            "amount": 4600.979994,
+            "outcomeIndex": 1,
+            "pseudonym": "bartiedarin"
+          },
+          {
+            "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+            "amount": 3776,
+            "outcomeIndex": 1,
+            "pseudonym": "elkmonkey"
+          },
+          {
+            "proxyWallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+            "amount": 2705.635134,
+            "outcomeIndex": 1,
+            "pseudonym": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740"
+          },
+          {
+            "proxyWallet": "0xd04d631183d7568356f598a3c77181ec4ab6d0e5",
+            "amount": 2499.984726,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xe4fc1041edb5c205e449fb6a5967e9db24418af7",
+            "amount": 2399.809222,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x8d266b3a02e34cfaaaf2469dcbd35ed6a1291c15",
+            "amount": 2372.42857,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x4fdac7ca7857ca02f8bed6f77999e2d5e51ef190",
+            "amount": 2142.85714,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xbd0923420f3bbe8580237cd8fadb25a46cd2a188",
+            "amount": 2000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+            "amount": 1942,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x70fbf183282a5405fdaa33d6f37edb0c2434f161",
+            "amount": 1775.714278,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xccf2e77ae9f5557fd1f17fe1cd8482e44c5f62b8",
+            "amount": 1498,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xed0744b508187cf042d732f0b27e85e15ec90ce3",
+            "amount": 1494,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x016ef5f62e67957d1c455f8c34584434f845bd54",
+            "amount": 1492,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 94015.474695,
+        "noTotalAmount": 105435.66574299999,
+        "whaleConcentration": 49.2065630406902,
+        "smartMoneyDirection": "NEUTRAL",
+        "top10Concentration": 82.55963568791275
+      },
+      "timestamp": 1768151279591
+    }
+  },
+  {
+    "market": {
+      "marketId": "1114234",
+      "eventId": "1114234",
+      "conditionId": "0xa4867bc861296e87b303d07438e76b07d290fe9390047e02991fd2d35598c237",
+      "eventSlug": "nba-sas-min-2026-01-11",
+      "marketSlug": "nba-sas-min-2026-01-11",
+      "title": "Spurs vs. Timberwolves",
+      "sport": "NBA",
+      "startTime": "2026-01-12 00:00:00+00",
+      "volume": 465371.902859,
+      "liquidity": 153634.3361,
+      "prices": {
+        "yes": 0.445,
+        "no": 0.555
+      },
+      "teamA": {
+        "name": "San Antonio Spurs"
+      },
+      "teamB": {
+        "name": "Minnesota Timberwolves"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0x14619de097b1fbe058d6d36282662c20958a30a1",
+            "amount": 49197.657779,
+            "outcomeIndex": 0,
+            "pseudonym": "saksaks12"
+          },
+          {
+            "proxyWallet": "0xe60a9b0be459d9849bc2339dac20517639ae6a47",
+            "amount": 21673.953447,
+            "outcomeIndex": 0,
+            "pseudonym": "0xb7511d7b0dcb75ffad0507cbac7223653d08915"
+          },
+          {
+            "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+            "amount": 20842,
+            "outcomeIndex": 0,
+            "pseudonym": "elkmonkey"
+          },
+          {
+            "proxyWallet": "0x76026e4ffed5b2f0273b4489e0780c08becde10f",
+            "amount": 20000,
+            "outcomeIndex": 0,
+            "pseudonym": "ouyfgo"
+          },
+          {
+            "proxyWallet": "0x97317409bfd9e992611596acee93e8b938019b35",
+            "amount": 9374.48,
+            "outcomeIndex": 0,
+            "pseudonym": "BlindOrangutan"
+          },
+          {
+            "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+            "amount": 8884.075871,
+            "outcomeIndex": 0,
+            "pseudonym": "sovereign2013"
+          },
+          {
+            "proxyWallet": "0x2a59f6c20cb7a720e6a08973152c0efdcb9c9a2f",
+            "amount": 5612.121488,
+            "outcomeIndex": 0,
+            "pseudonym": "PatriotRaisi",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1341256-4dabf021-1f6f-4102-8ebb-f0950f374cb2.jpg"
+          },
+          {
+            "proxyWallet": "0xdc251216c4c343255eb7349ac7b02efd2d6d2a35",
+            "amount": 5000,
+            "outcomeIndex": 0,
+            "pseudonym": "2563-1"
+          },
+          {
+            "proxyWallet": "0xc1e1158b2a9bab4c4a4c5a4e05cb06c195fff855",
+            "amount": 4589.96,
+            "outcomeIndex": 0,
+            "pseudonym": "0xC1E1158B2a9bAb4c4a4C5a4e05CB06c195FFF855-1764189959238"
+          },
+          {
+            "proxyWallet": "0x57a8d63731277200ed26cfde9a8a830d94f36933",
+            "amount": 3895,
+            "outcomeIndex": 0,
+            "pseudonym": "statwC00KS",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3249060-99079fc1-87f3-4b23-ac31-48c26b01083f.jpg"
+          },
+          {
+            "proxyWallet": "0xbd0923420f3bbe8580237cd8fadb25a46cd2a188",
+            "amount": 3000,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x986c0ba5ae79c5cf171cfa8e85afe186412a3180",
+            "amount": 2533.61,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xf0f0a81491c5d82f2e9f88d92fe6617f9ffdf89e",
+            "amount": 2424,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x1b8b9e4bb6b1e66f015c4f7b4ad773d33c5915ba",
+            "amount": 2371.719997,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x2652dd1140c3b9e69c8852264cf8dbe727672a1d",
+            "amount": 2109.908833,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xa315afc43cd6c3fc06774d33d769d0ff043ecabb",
+            "amount": 2100.105256,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xca06c947549a587f6f03b61f92ae344aba7c65bc",
+            "amount": 2100,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x6b6017aad92663e20336b8c39172245a13da9c7e",
+            "amount": 1947.39,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x75c075c2a72a7379a779499b8b62857a60662d9f",
+            "amount": 1829.97792,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xdb37e2fd348e479ba4b448f93b44cd6da4c06b6b",
+            "amount": 1761.522726,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0xf6d0642148933ea5a0c5c9ad33c1c1b517e69391",
+            "amount": 41491.858088,
+            "outcomeIndex": 1,
+            "pseudonym": "fun123"
+          },
+          {
+            "proxyWallet": "0xcd9bc2939f0dac121f6ccde59cca5e0b6a91414d",
+            "amount": 35999.91416,
+            "outcomeIndex": 1,
+            "pseudonym": "BITCOINTO500K"
+          },
+          {
+            "proxyWallet": "0x0d8c257c5cf410c37db7ec94f8b54b4e6a28ef04",
+            "amount": 19999.849996,
+            "outcomeIndex": 1,
+            "pseudonym": "izdgz"
+          },
+          {
+            "proxyWallet": "0xbf5160f50a5ee187a53aa3a3dfca5f40aeb84a30",
+            "amount": 19298.245609,
+            "outcomeIndex": 1,
+            "pseudonym": "wagwag"
+          },
+          {
+            "proxyWallet": "0x29a39d8ecf7122e7b538b96bc714eac2d4dc9b79",
+            "amount": 8906,
+            "outcomeIndex": 1,
+            "pseudonym": "Gimme"
+          },
+          {
+            "proxyWallet": "0x8338fe7ec9650f1b7e3e6bcacaf62baec05a2ea3",
+            "amount": 5141.6,
+            "outcomeIndex": 1,
+            "pseudonym": "rqwcxzb"
+          },
+          {
+            "proxyWallet": "0x73e5b2b7430609f2906eba77e5e348dc7061e23e",
+            "amount": 4999.976356,
+            "outcomeIndex": 1,
+            "pseudonym": "2490"
+          },
+          {
+            "proxyWallet": "0xcf07f74599a9ca8b88f710b8fac58788669e77c4",
+            "amount": 4853.886974,
+            "outcomeIndex": 1,
+            "pseudonym": "qwefas"
+          },
+          {
+            "proxyWallet": "0x7bd84b169770743b5135679516bb992663ccaeab",
+            "amount": 4132.62,
+            "outcomeIndex": 1,
+            "pseudonym": "0x7bD84B169770743B5135679516Bb992663ccaEaB-1753273582241"
+          },
+          {
+            "proxyWallet": "0x699f72e2ba6a4c2cd419c0e78ffa20b76dc5d5c6",
+            "amount": 4091.94,
+            "outcomeIndex": 1,
+            "pseudonym": "ibeatpinnacle"
+          },
+          {
+            "proxyWallet": "0x439b4cac193239c5769ac26e1d0b167e22182c9a",
+            "amount": 3682.71,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x8d266b3a02e34cfaaaf2469dcbd35ed6a1291c15",
+            "amount": 3455.689654,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xe4fc1041edb5c205e449fb6a5967e9db24418af7",
+            "amount": 2400.050603,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xba264376d6fef08f23a44db4153d12d47f5f23c9",
+            "amount": 2233.124544,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd04d631183d7568356f598a3c77181ec4ab6d0e5",
+            "amount": 2181.581704,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x3045e3facbdea6b282fda0589af4e8d278cf342d",
+            "amount": 2100,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xa865a7b36a53724dbd4c4e9f2ecde26fc80b13fe",
+            "amount": 2100,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xeb063e839380e1392484e3e1c7d08c78e275a637",
+            "amount": 1800,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x22af44e977a64a6192d5e259a6c9ad2a9fbfca2f",
+            "amount": 1761.50877,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x415a2f29a820b36f4a0e03ac17c5f535260359bc",
+            "amount": 1754.620688,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 171247.483317,
+        "noTotalAmount": 172385.17714599997,
+        "whaleConcentration": 55.06031737934071,
+        "smartMoneyDirection": "NEUTRAL",
+        "top10Concentration": 86.71618680439283
+      },
+      "timestamp": 1768151279743
+    }
+  },
+  {
+    "market": {
+      "marketId": "1114232",
+      "eventId": "1114232",
+      "conditionId": "0xd06c027ec00d7dd6114fa5e5e963065e9c2ace7eda79fade99e9dd29a3d6796d",
+      "eventSlug": "nba-nyk-por-2026-01-11",
+      "marketSlug": "nba-nyk-por-2026-01-11",
+      "title": "Knicks vs. Trail Blazers",
+      "sport": "NBA",
+      "startTime": "2026-01-11 23:00:00+00",
+      "volume": 438508.058724,
+      "liquidity": 205241.0725,
+      "prices": {
+        "yes": 0.635,
+        "no": 0.365
+      },
+      "teamA": {
+        "name": "New York Knicks"
+      },
+      "teamB": {
+        "name": "Portland Trail Blazers"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xc65ca4755436f82d8eb461e65781584b8cadea39",
+            "amount": 39999.853478,
+            "outcomeIndex": 0,
+            "pseudonym": "LOOKINGBACK",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4485992-d60bff11-312c-4668-b06d-96a33e7067e7.jpg"
+          },
+          {
+            "proxyWallet": "0x1bc0d88ca86b9049cf05d642e634836d5ddf4429",
+            "amount": 34000,
+            "outcomeIndex": 0,
+            "pseudonym": "212121212121212121212"
+          },
+          {
+            "proxyWallet": "0x35bdcc1e9462ecefa1a79c84fd1d68b0970b1ecf",
+            "amount": 6999.878074,
+            "outcomeIndex": 0,
+            "pseudonym": "33b8im"
+          },
+          {
+            "proxyWallet": "0xc49fe658479db29e1a2fefebf0735f657dca9e05",
+            "amount": 5929.979455,
+            "outcomeIndex": 0,
+            "pseudonym": "GreenlandUSA2026"
+          },
+          {
+            "proxyWallet": "0x0dc73e64a3f737321f08649c741dee988492a83c",
+            "amount": 5001.841267,
+            "outcomeIndex": 0,
+            "pseudonym": "jessehernandez"
+          },
+          {
+            "proxyWallet": "0xbd0923420f3bbe8580237cd8fadb25a46cd2a188",
+            "amount": 4000,
+            "outcomeIndex": 0,
+            "pseudonym": "Saivestor"
+          },
+          {
+            "proxyWallet": "0x9c16127eccf031df45461ef1e04b52ea286a09cb",
+            "amount": 3689.51,
+            "outcomeIndex": 0,
+            "pseudonym": "Vanchalkenstein"
+          },
+          {
+            "proxyWallet": "0x8d266b3a02e34cfaaaf2469dcbd35ed6a1291c15",
+            "amount": 2885.02875,
+            "outcomeIndex": 0,
+            "pseudonym": "FrancisAnthony",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4667201-fb7ef7aa-a5be-4959-bdf8-6a06b1c49315.png"
+          },
+          {
+            "proxyWallet": "0x97317409bfd9e992611596acee93e8b938019b35",
+            "amount": 2557.5,
+            "outcomeIndex": 0,
+            "pseudonym": "BlindOrangutan"
+          },
+          {
+            "proxyWallet": "0x14619de097b1fbe058d6d36282662c20958a30a1",
+            "amount": 2437.477743,
+            "outcomeIndex": 0,
+            "pseudonym": "saksaks12"
+          },
+          {
+            "proxyWallet": "0x2652dd1140c3b9e69c8852264cf8dbe727672a1d",
+            "amount": 2176,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xe20a1538293903b746ffe6c4ce2d5c3c0300e469",
+            "amount": 2000,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xb90a51dfa94d1bb1803cf7adffeff3bf0192e042",
+            "amount": 1499,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xc37e8ff874c5b3301fdac3b296683cbeb4fd894d",
+            "amount": 1498,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xced74a86432ec23c508ab0c82a96fbed74d88edf",
+            "amount": 1497,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x60af693716e20c5543126aa3c4e808564b99a4ec",
+            "amount": 1495,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x40b74533e2465c63731358cf64ca3624be75eddd",
+            "amount": 1491,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x4e53751417d33ac0afdb9dd2e35776e76d0ceddf",
+            "amount": 1490,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x7e6148061599642638aa922007b5cc0528a5d28f",
+            "amount": 1489,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xb61d66ed8adc74bb382583472c8c39e03b266d18",
+            "amount": 1489,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0xc3c3b3ef304ddbea39fa2246e683a71da5d0eec8",
+            "amount": 24999.997615,
+            "outcomeIndex": 1,
+            "pseudonym": "comon119"
+          },
+          {
+            "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+            "amount": 11393,
+            "outcomeIndex": 1,
+            "pseudonym": "elkmonkey"
+          },
+          {
+            "proxyWallet": "0xcd9bc2939f0dac121f6ccde59cca5e0b6a91414d",
+            "amount": 9999.982374,
+            "outcomeIndex": 1,
+            "pseudonym": "BITCOINTO500K"
+          },
+          {
+            "proxyWallet": "0x9c42eb8b88cf9c1d267e905b6904aca205f2da3c",
+            "amount": 7000.79,
+            "outcomeIndex": 1,
+            "pseudonym": "duongnplibn"
+          },
+          {
+            "proxyWallet": "0xd26960fa8bafe528f23c3a982a11ee6501348055",
+            "amount": 5540.540539,
+            "outcomeIndex": 1,
+            "pseudonym": "quertywins"
+          },
+          {
+            "proxyWallet": "0x90ba2e712cdb5d167f22ef2053333ff1437463f3",
+            "amount": 5050,
+            "outcomeIndex": 1,
+            "pseudonym": "Esvvhjtrfvnki7yg4gbj6yg"
+          },
+          {
+            "proxyWallet": "0xe60a9b0be459d9849bc2339dac20517639ae6a47",
+            "amount": 4543.671451,
+            "outcomeIndex": 1,
+            "pseudonym": "0xb7511d7b0dcb75ffad0507cbac7223653d08915"
+          },
+          {
+            "proxyWallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+            "amount": 4095,
+            "outcomeIndex": 1,
+            "pseudonym": "jtwyslljy"
+          },
+          {
+            "proxyWallet": "0x478f311993178d13af1ffa5ad8db3cb5432df5d9",
+            "amount": 4054.054053,
+            "outcomeIndex": 1,
+            "pseudonym": "tbjmx777"
+          },
+          {
+            "proxyWallet": "0xd71b256a51687071501df8c3f456126287e678f5",
+            "amount": 3324,
+            "outcomeIndex": 1,
+            "pseudonym": "TaylorAlex"
+          },
+          {
+            "proxyWallet": "0xd2bd0ad2e7f64e4a032ee79eb16346c87984b539",
+            "amount": 2999.9775,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xbf5160f50a5ee187a53aa3a3dfca5f40aeb84a30",
+            "amount": 2702.702701,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+            "amount": 2027.095135,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x64b537601c39203e2d831bcf5df66601aff67543",
+            "amount": 2000.026348,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x76d15af5493d19d931aa3aa87a02f4228c27b03f",
+            "amount": 2000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xa051370fbcb5874ed0f0b6703870774ca48b54eb",
+            "amount": 1891.89189,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xf0f0a81491c5d82f2e9f88d92fe6617f9ffdf89e",
+            "amount": 1500,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x26f9a4e8406f24cfdc3507f4edd862bf5477496d",
+            "amount": 1499,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x5e5e899c89dc1417670b35ffc9a69703fd83bf7c",
+            "amount": 1498,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd0120c5adc17b4d8e9cfcc30ad835c287d0bc5b1",
+            "amount": 1497,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 123625.06876699999,
+        "noTotalAmount": 99616.729606,
+        "whaleConcentration": 57.06490113833787,
+        "smartMoneyDirection": "YES",
+        "top10Concentration": 83.99059054600299
+      },
+      "timestamp": 1768151279795
+    }
+  },
+  {
+    "market": {
+      "marketId": "1114225",
+      "eventId": "1114225",
+      "conditionId": "0x459d9f12c1f50ac6ca7ac5c2754c3be37ce090a16bbf5697d571889c29512ef2",
+      "eventSlug": "nba-bkn-mem-2026-01-11",
+      "marketSlug": "nba-bkn-mem-2026-01-11",
+      "title": "Nets vs. Grizzlies",
+      "sport": "NBA",
+      "startTime": "2026-01-11 20:30:00+00",
+      "volume": 391431.328638,
+      "liquidity": 484044.2937,
+      "prices": {
+        "yes": 0.295,
+        "no": 0.705
+      },
+      "teamA": {
+        "name": "Brooklyn Nets"
+      },
+      "teamB": {
+        "name": "Memphis Grizzlies"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
+            "amount": 131555.343484,
+            "outcomeIndex": 0,
+            "pseudonym": "DrPufferfish"
+          },
+          {
+            "proxyWallet": "0xcd9bc2939f0dac121f6ccde59cca5e0b6a91414d",
+            "amount": 69999.971868,
+            "outcomeIndex": 0,
+            "pseudonym": "BITCOINTO500K"
+          },
+          {
+            "proxyWallet": "0x3b5c629f114098b0dee345fb78b7a3a013c7126e",
+            "amount": 13687.921395,
+            "outcomeIndex": 0,
+            "pseudonym": "SMCAOMCRL"
+          },
+          {
+            "proxyWallet": "0x936f6427f105a01d933bcdb31c427af6e37bd171",
+            "amount": 5172.413791,
+            "outcomeIndex": 0,
+            "pseudonym": "casnintendo"
+          },
+          {
+            "proxyWallet": "0xfce17e0395c790ad16f5a0b7fea062120f8e9ce7",
+            "amount": 5000,
+            "outcomeIndex": 0,
+            "pseudonym": "K9O"
+          },
+          {
+            "proxyWallet": "0x2868ee639b9e46775d4157076e70e1bd92c15102",
+            "amount": 4601.32214,
+            "outcomeIndex": 0,
+            "pseudonym": "ppWONDER"
+          },
+          {
+            "proxyWallet": "0x92f505b0038b20bbeaa9be1fe871b1d6d4016d29",
+            "amount": 4448.32,
+            "outcomeIndex": 0,
+            "pseudonym": "0x92F505b0038b20BbeaA9bE1FE871b1d6d4016d29-1736384414611"
+          },
+          {
+            "proxyWallet": "0xbd0923420f3bbe8580237cd8fadb25a46cd2a188",
+            "amount": 3000,
+            "outcomeIndex": 0,
+            "pseudonym": "Saivestor"
+          },
+          {
+            "proxyWallet": "0x210796fa2e3b96392833868651219ab05cc78f4c",
+            "amount": 3000,
+            "outcomeIndex": 0,
+            "pseudonym": "Glorp69"
+          },
+          {
+            "proxyWallet": "0x60de498c03cdedd5be0a69c401466130ac386453",
+            "amount": 2419.354833,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xe4fc1041edb5c205e449fb6a5967e9db24418af7",
+            "amount": 2400.096508,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x41b48b4145d568604106d4a78bd333a8c974de82",
+            "amount": 2000,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x64b537601c39203e2d831bcf5df66601aff67543",
+            "amount": 1999.998566,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x16496edde998f4ed05e8b3df4366b160492f7d8a",
+            "amount": 1612.903224,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xc4a6141e09a5d2e2a6ebdacab8c4edc66c0e6d23",
+            "amount": 1517.24,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xe756d873a2aec35065ba8e96787b7289a677e006",
+            "amount": 1429.998885,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xba264376d6fef08f23a44db4153d12d47f5f23c9",
+            "amount": 1399.994202,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x0bbff2aacc931f624c7ca52fc969e2a6e52c5a09",
+            "amount": 1312,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x5a52bf7b1ef0cd43a42405d49ecd2d3e7083c0e8",
+            "amount": 1303.04,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x1372a9d973ac05efcef59464024f6cd1dd54bf6d",
+            "amount": 1299.991426,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0x0aa3744338ddf9f39fb3a80bc9c916179d0b64e9",
+            "amount": 43007.05,
+            "outcomeIndex": 1,
+            "pseudonym": "DimasXT",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-621728-d6b41314-449e-45f8-a35d-7ae424753fce.jpg"
+          },
+          {
+            "proxyWallet": "0xe60a9b0be459d9849bc2339dac20517639ae6a47",
+            "amount": 19071.327796,
+            "outcomeIndex": 1,
+            "pseudonym": "0xb7511d7b0dcb75ffad0507cbac7223653d08915"
+          },
+          {
+            "proxyWallet": "0x61ea2d8632bbac5f21b7a183927208627b51c24a",
+            "amount": 18668.808723,
+            "outcomeIndex": 1,
+            "pseudonym": "NBA-C"
+          },
+          {
+            "proxyWallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+            "amount": 16600,
+            "outcomeIndex": 1,
+            "pseudonym": "one8tyfive",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-127255-792bc95e-3338-4e06-895d-b275e6ddd6e6.jpg"
+          },
+          {
+            "proxyWallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+            "amount": 16053.62,
+            "outcomeIndex": 1,
+            "pseudonym": "432614799197"
+          },
+          {
+            "proxyWallet": "0xf9885da150836378ce5689395ff4d194683fd63b",
+            "amount": 15000,
+            "outcomeIndex": 1,
+            "pseudonym": "0xF9885Da150836378ce5689395FF4d194683fd63B-1767719836281"
+          },
+          {
+            "proxyWallet": "0xb55216ed55337cf9443139e4e5cace56426694a8",
+            "amount": 14477.986664,
+            "outcomeIndex": 1,
+            "pseudonym": "KirksCousin"
+          },
+          {
+            "proxyWallet": "0x97317409bfd9e992611596acee93e8b938019b35",
+            "amount": 10818.59,
+            "outcomeIndex": 1,
+            "pseudonym": "BlindOrangutan"
+          },
+          {
+            "proxyWallet": "0x6daed63285060cd088a050162cb3df8350484688",
+            "amount": 8704.977588,
+            "outcomeIndex": 1,
+            "pseudonym": "Beepob"
+          },
+          {
+            "proxyWallet": "0x1117eade222413335b7ec959e5b48c1d3dbc3532",
+            "amount": 8247,
+            "outcomeIndex": 1,
+            "pseudonym": "benwyatt"
+          },
+          {
+            "proxyWallet": "0x30a4ae43ce2a8c55fc911b6615fb429a52898441",
+            "amount": 6800,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+            "amount": 6460.234702,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xf5ff4c9f9943e156065bef6798e90e04826b2390",
+            "amount": 5368,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd9a301d0e4ebecd8f755f3e096c9d8a13c80b1df",
+            "amount": 4318.646651,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xbf5160f50a5ee187a53aa3a3dfca5f40aeb84a30",
+            "amount": 3472.222221,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x94fa5631048f10e7e6d30a669b0a5020781b989e",
+            "amount": 3323,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x78f7ba025c366404e74c4315d2895bda4ce62c5d",
+            "amount": 3314.99,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd1e0c0db26fb636fb557704f05f7cd8ae4148913",
+            "amount": 3314.285713,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd2bd0ad2e7f64e4a032ee79eb16346c87984b539",
+            "amount": 2999.916105,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x2652dd1140c3b9e69c8852264cf8dbe727672a1d",
+            "amount": 2954.23,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 259159.910322,
+        "noTotalAmount": 212974.886163,
+        "whaleConcentration": 62.69193151397046,
+        "smartMoneyDirection": "YES",
+        "top10Concentration": 87.58812342592043
+      },
+      "timestamp": 1768151279799
+    }
+  },
+  {
+    "market": {
+      "marketId": "1114243",
+      "eventId": "1114243",
+      "conditionId": "0x49c1f2645aab5d8900bb52bdfa81dcfe4dfa9187750723a9b659da576ade8a43",
+      "eventSlug": "nba-mil-den-2026-01-11",
+      "marketSlug": "nba-mil-den-2026-01-11",
+      "title": "Bucks vs. Nuggets",
+      "sport": "NBA",
+      "startTime": "2026-01-12 01:00:00+00",
+      "volume": 318008.655396,
+      "liquidity": 162414.7742,
+      "prices": {
+        "yes": 0.555,
+        "no": 0.445
+      },
+      "teamA": {
+        "name": "Milwaukee Bucks"
+      },
+      "teamB": {
+        "name": "Denver Nuggets"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xbf5160f50a5ee187a53aa3a3dfca5f40aeb84a30",
+            "amount": 35418.527915,
+            "outcomeIndex": 0,
+            "pseudonym": "wagwag"
+          },
+          {
+            "proxyWallet": "0x1117eade222413335b7ec959e5b48c1d3dbc3532",
+            "amount": 8505.4,
+            "outcomeIndex": 0,
+            "pseudonym": "benwyatt"
+          },
+          {
+            "proxyWallet": "0x9c42eb8b88cf9c1d267e905b6904aca205f2da3c",
+            "amount": 7200,
+            "outcomeIndex": 0,
+            "pseudonym": "duongnplibn"
+          },
+          {
+            "proxyWallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+            "amount": 6999.968863,
+            "outcomeIndex": 0,
+            "pseudonym": "VeryLucky888"
+          },
+          {
+            "proxyWallet": "0x97317409bfd9e992611596acee93e8b938019b35",
+            "amount": 6271.833809,
+            "outcomeIndex": 0,
+            "pseudonym": "BlindOrangutan"
+          },
+          {
+            "proxyWallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+            "amount": 6000,
+            "outcomeIndex": 0,
+            "pseudonym": "FireKevinPatullo",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2123373-f5e8c62c-f46e-443c-a57e-1ed7c2581a1c.jpg"
+          },
+          {
+            "proxyWallet": "0x64b537601c39203e2d831bcf5df66601aff67543",
+            "amount": 4726.065976,
+            "outcomeIndex": 0,
+            "pseudonym": "Guailankia"
+          },
+          {
+            "proxyWallet": "0xd6966eb1ae7b52320ba7ab1016680198c9e08a49",
+            "amount": 4600,
+            "outcomeIndex": 0,
+            "pseudonym": "EIf",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2970187-7a242ca5-ce20-4cbd-a772-b93edd01736c.png"
+          },
+          {
+            "proxyWallet": "0x0500211a08685c61d89fa6d9eb92a1328bce17cd",
+            "amount": 4479.939978,
+            "outcomeIndex": 0,
+            "pseudonym": "Nexxus2025"
+          },
+          {
+            "proxyWallet": "0xa9095a6072961984a1b42f5eb4827fc75808d809",
+            "amount": 4378.869552,
+            "outcomeIndex": 0,
+            "pseudonym": "Vandal15"
+          },
+          {
+            "proxyWallet": "0x39932ca2b7a1b8ab6cbf0b8f7419261b950ccded",
+            "amount": 4096.23,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x1d3a805284bc8029cd6acd06d5a2b8b2b1807b63",
+            "amount": 3900,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x8d266b3a02e34cfaaaf2469dcbd35ed6a1291c15",
+            "amount": 3842.909088,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x3084ecfd10aa51eb5e76a913787f9e41e100c1d6",
+            "amount": 3400,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+            "amount": 3107.522597,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xd04d631183d7568356f598a3c77181ec4ab6d0e5",
+            "amount": 2410.65915,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xe4fc1041edb5c205e449fb6a5967e9db24418af7",
+            "amount": 2399.990742,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xa31d473bc0e8c4ea0c28b1eeae8fcbe034e7789b",
+            "amount": 2399.978885,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x494e68e49044fe850b778a723a4fcc8d3088c549",
+            "amount": 2121.21,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xb0455ca29c66b88da39825acc5c16a2746f37633",
+            "amount": 1999.955546,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0xc3c3b3ef304ddbea39fa2246e683a71da5d0eec8",
+            "amount": 25000,
+            "outcomeIndex": 1,
+            "pseudonym": "comon119"
+          },
+          {
+            "proxyWallet": "0xcd9bc2939f0dac121f6ccde59cca5e0b6a91414d",
+            "amount": 24999.924509,
+            "outcomeIndex": 1,
+            "pseudonym": "BITCOINTO500K"
+          },
+          {
+            "proxyWallet": "0xe60a9b0be459d9849bc2339dac20517639ae6a47",
+            "amount": 21894.669456,
+            "outcomeIndex": 1,
+            "pseudonym": "0xb7511d7b0dcb75ffad0507cbac7223653d08915"
+          },
+          {
+            "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+            "amount": 18697.62,
+            "outcomeIndex": 1,
+            "pseudonym": "elkmonkey"
+          },
+          {
+            "proxyWallet": "0x35bdcc1e9462ecefa1a79c84fd1d68b0970b1ecf",
+            "amount": 7198.819216,
+            "outcomeIndex": 1,
+            "pseudonym": "33b8im"
+          },
+          {
+            "proxyWallet": "0xbd0923420f3bbe8580237cd8fadb25a46cd2a188",
+            "amount": 5000,
+            "outcomeIndex": 1,
+            "pseudonym": "Saivestor"
+          },
+          {
+            "proxyWallet": "0xff6042e1cb97a64f1b29383c3b3e8b0beb8e8c1d",
+            "amount": 4600,
+            "outcomeIndex": 1,
+            "pseudonym": "qingkong"
+          },
+          {
+            "proxyWallet": "0x84619fda410182781b4a1e15acce7578839c0df3",
+            "amount": 4377.914524,
+            "outcomeIndex": 1,
+            "pseudonym": "Nathania28"
+          },
+          {
+            "proxyWallet": "0xf76bc828a14f5052499706448baef7392c9b2251",
+            "amount": 3100,
+            "outcomeIndex": 1,
+            "pseudonym": "tyytyt"
+          },
+          {
+            "proxyWallet": "0xc1279f0580792e964583e486a07ffa2b06fb66e9",
+            "amount": 2121.21,
+            "outcomeIndex": 1,
+            "pseudonym": "0xC1279f0580792e964583e486A07ffA2b06fB66E9-1763453874861"
+          },
+          {
+            "proxyWallet": "0xba264376d6fef08f23a44db4153d12d47f5f23c9",
+            "amount": 2100.027947,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x491e45d0468364fc392f8c7c60bbc5847de8bb0b",
+            "amount": 1800.777776,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd2bd0ad2e7f64e4a032ee79eb16346c87984b539",
+            "amount": 1799.98285,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x9e2f652edcc5f944f33f68410d10ea4464a9ec47",
+            "amount": 1611.811427,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd26960fa8bafe528f23c3a982a11ee6501348055",
+            "amount": 1577.777776,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xa051370fbcb5874ed0f0b6703870774ca48b54eb",
+            "amount": 1555.555554,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xee4d91b7d0fad963c2a4bf7b53b6bfb0990ecae5",
+            "amount": 1260,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x14619de097b1fbe058d6d36282662c20958a30a1",
+            "amount": 1171.022226,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x62d76a744f76839d1d34ff23c5d2c77765c21dcd",
+            "amount": 1086,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x305b8c0ee377734f0bd8d1da7929ee3b73253531",
+            "amount": 1069,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 118259.062101,
+        "noTotalAmount": 132022.11326100002,
+        "whaleConcentration": 49.15212728327223,
+        "smartMoneyDirection": "NO",
+        "top10Concentration": 82.1359271230319
+      },
+      "timestamp": 1768151280081
+    }
+  },
+  {
+    "market": {
+      "marketId": "1114229",
+      "eventId": "1114229",
+      "conditionId": "0x05971e9349a7db2c95ce01282a1851fe581e151ed082a790f507621f64636622",
+      "eventSlug": "nba-phi-tor-2026-01-11",
+      "marketSlug": "nba-phi-tor-2026-01-11",
+      "title": "76ers vs. Raptors",
+      "sport": "NBA",
+      "startTime": "2026-01-11 23:00:00+00",
+      "volume": 223085.919692,
+      "liquidity": 127578.3519,
+      "prices": {
+        "yes": 0.605,
+        "no": 0.395
+      },
+      "teamA": {
+        "name": "Philadelphia 76ers"
+      },
+      "teamB": {
+        "name": "Toronto Raptors"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xbf5160f50a5ee187a53aa3a3dfca5f40aeb84a30",
+            "amount": 31819.02698,
+            "outcomeIndex": 0,
+            "pseudonym": "wagwag"
+          },
+          {
+            "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+            "amount": 7646.1,
+            "outcomeIndex": 0,
+            "pseudonym": "sovereign2013"
+          },
+          {
+            "proxyWallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+            "amount": 6599.598715,
+            "outcomeIndex": 0,
+            "pseudonym": "VeryLucky888"
+          },
+          {
+            "proxyWallet": "0x6e82b93eb57b01a63027bd0c6d2f3f04934a752c",
+            "amount": 5740.44,
+            "outcomeIndex": 0,
+            "pseudonym": "0x24357454d8d1a0cc93a6c25fd490467372bc2454"
+          },
+          {
+            "proxyWallet": "0xe52e4e27a23272c54a567d2021276e9334dc251e",
+            "amount": 4999.964347,
+            "outcomeIndex": 0,
+            "pseudonym": "jackmark"
+          },
+          {
+            "proxyWallet": "0xbd0923420f3bbe8580237cd8fadb25a46cd2a188",
+            "amount": 4000,
+            "outcomeIndex": 0,
+            "pseudonym": "Saivestor"
+          },
+          {
+            "proxyWallet": "0xb55216ed55337cf9443139e4e5cace56426694a8",
+            "amount": 3893,
+            "outcomeIndex": 0,
+            "pseudonym": "KirksCousin"
+          },
+          {
+            "proxyWallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+            "amount": 3865.235,
+            "outcomeIndex": 0,
+            "pseudonym": "one8tyfive",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-127255-792bc95e-3338-4e06-895d-b275e6ddd6e6.jpg"
+          },
+          {
+            "proxyWallet": "0x78f7ba025c366404e74c4315d2895bda4ce62c5d",
+            "amount": 3794.49,
+            "outcomeIndex": 0,
+            "pseudonym": "TheLean"
+          },
+          {
+            "proxyWallet": "0x2652dd1140c3b9e69c8852264cf8dbe727672a1d",
+            "amount": 3734.56,
+            "outcomeIndex": 0,
+            "pseudonym": "Punisher2022",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3156532-08ecb862-95bc-4f29-b604-6a68a38f0b33.jpeg"
+          },
+          {
+            "proxyWallet": "0x16cf8c5d6cddca4eede18d9aa555850a5a651d42",
+            "amount": 3300,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+            "amount": 3143,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x8d266b3a02e34cfaaaf2469dcbd35ed6a1291c15",
+            "amount": 3124.098358,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x14619de097b1fbe058d6d36282662c20958a30a1",
+            "amount": 2843.711938,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x8211c13d6cecfb310142862ed06b6181808135a2",
+            "amount": 2800,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x3eee293c5dee12a7aa692e21c4b50bb8fc3fe8b6",
+            "amount": 2603.774348,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xe4fc1041edb5c205e449fb6a5967e9db24418af7",
+            "amount": 2399.89659,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x97317409bfd9e992611596acee93e8b938019b35",
+            "amount": 1946.05,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x019e20a59d71d71ba94d0ed52e718ffe0b1eaf1d",
+            "amount": 1888,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x9534cf9c9692bfe14a75f468ad37962b1aec1fe8",
+            "amount": 1692.36,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0xcd9bc2939f0dac121f6ccde59cca5e0b6a91414d",
+            "amount": 32184.926506,
+            "outcomeIndex": 1,
+            "pseudonym": "BITCOINTO500K"
+          },
+          {
+            "proxyWallet": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+            "amount": 25425.54,
+            "outcomeIndex": 1,
+            "pseudonym": "ShucksIt69"
+          },
+          {
+            "proxyWallet": "0xd2b2cd8044cc7a19e12db9b09f4f12a1c3d0d101",
+            "amount": 10000,
+            "outcomeIndex": 1,
+            "pseudonym": "Aadaniel"
+          },
+          {
+            "proxyWallet": "0x7f25372d1b79b531adb9e1fe285f3706583ca115",
+            "amount": 7800,
+            "outcomeIndex": 1,
+            "pseudonym": "kingqwer"
+          },
+          {
+            "proxyWallet": "0xa051370fbcb5874ed0f0b6703870774ca48b54eb",
+            "amount": 5128.205126,
+            "outcomeIndex": 1,
+            "pseudonym": "RollsRoycsUmbrella"
+          },
+          {
+            "proxyWallet": "0x817bd11dac76d41df5459a985e9e9c8a9e2e3c25",
+            "amount": 5000,
+            "outcomeIndex": 1,
+            "pseudonym": "WienerProcess",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1689071-87b52f2c-ea1c-4b98-b2c0-64093eb99ef5.png"
+          },
+          {
+            "proxyWallet": "0xc8ec6d4cef5c5fe8409ef69303c37f05b678e8f1",
+            "amount": 4478.256407,
+            "outcomeIndex": 1,
+            "pseudonym": "Hugewinner"
+          },
+          {
+            "proxyWallet": "0xd1612fb075a949fe1ddc96068f18c56b90ed4cc1",
+            "amount": 2999.750247,
+            "outcomeIndex": 1,
+            "pseudonym": "almet"
+          },
+          {
+            "proxyWallet": "0x5215d379ada6e464c1fc53038f3ae24cec3c3164",
+            "amount": 2599.974188,
+            "outcomeIndex": 1,
+            "pseudonym": "fullvalue",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4352804-e83c18ce-17bc-4132-ae22-d11f9377f2a4.jpg"
+          },
+          {
+            "proxyWallet": "0xd26960fa8bafe528f23c3a982a11ee6501348055",
+            "amount": 2307.692306,
+            "outcomeIndex": 1,
+            "pseudonym": "quertywins"
+          },
+          {
+            "proxyWallet": "0x42f7601f2fb2ad5dced30e7e9f2654aaa4285b3e",
+            "amount": 2000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xff9ca5d2aa3b3e8e4e47d5fa8fd4c30f5f372c98",
+            "amount": 1850,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x41b48b4145d568604106d4a78bd333a8c974de82",
+            "amount": 1600,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x699f72e2ba6a4c2cd419c0e78ffa20b76dc5d5c6",
+            "amount": 1535.17,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xba6fdcaa89a0f8b3728f6c0cfccf062b78aa0442",
+            "amount": 1282.051281,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x4fc19a907012ef58717ee7ceb1f89057f71aec92",
+            "amount": 1000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x3ea820e72698192558e5870c233ee4b3895b4e59",
+            "amount": 1000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x76d15af5493d19d931aa3aa87a02f4228c27b03f",
+            "amount": 1000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x8dbe391cfc31b33dbf5e34906652c14b65e00308",
+            "amount": 950,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x9c1df400c606ec0b8dd2078bc4d6c6ed58630565",
+            "amount": 950,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 101833.30627600002,
+        "noTotalAmount": 111091.56606099999,
+        "whaleConcentration": 53.387465237543616,
+        "smartMoneyDirection": "NEUTRAL",
+        "top10Concentration": 81.72683534433712
+      },
+      "timestamp": 1768151280125
+    }
+  },
+  {
+    "market": {
+      "marketId": "1114239",
+      "eventId": "1114239",
+      "conditionId": "0xda685356b0420daaeaec34be3d808f4d529999797700f00ac029e66f1627dd01",
+      "eventSlug": "nba-mia-okc-2026-01-11",
+      "marketSlug": "nba-mia-okc-2026-01-11",
+      "title": "Heat vs. Thunder",
+      "sport": "NBA",
+      "startTime": "2026-01-12 00:00:00+00",
+      "volume": 201758.555756,
+      "liquidity": 267881.8846,
+      "prices": {
+        "yes": 0.145,
+        "no": 0.855
+      },
+      "teamA": {
+        "name": "Miami Heat"
+      },
+      "teamB": {
+        "name": "Oklahoma City Thunder"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xcd9bc2939f0dac121f6ccde59cca5e0b6a91414d",
+            "amount": 46116.621708,
+            "outcomeIndex": 0,
+            "pseudonym": "BITCOINTO500K"
+          },
+          {
+            "proxyWallet": "0x90ba2e712cdb5d167f22ef2053333ff1437463f3",
+            "amount": 10099.995578,
+            "outcomeIndex": 0,
+            "pseudonym": "Esvvhjtrfvnki7yg4gbj6yg"
+          },
+          {
+            "proxyWallet": "0xb6146b60b560affa7272804bfc0e31936cf3a2a0",
+            "amount": 9999.999528,
+            "outcomeIndex": 0,
+            "pseudonym": "teroori22"
+          },
+          {
+            "proxyWallet": "0xbf5160f50a5ee187a53aa3a3dfca5f40aeb84a30",
+            "amount": 7142.857141,
+            "outcomeIndex": 0,
+            "pseudonym": "wagwag"
+          },
+          {
+            "proxyWallet": "0xe3ff02e324912152479b1a63bf903ddad290805c",
+            "amount": 6076.138104,
+            "outcomeIndex": 0,
+            "pseudonym": "0xe3Ff02E324912152479B1A63bf903ddAD290805C-1720947586435"
+          },
+          {
+            "proxyWallet": "0xe60a9b0be459d9849bc2339dac20517639ae6a47",
+            "amount": 5967.312392,
+            "outcomeIndex": 0,
+            "pseudonym": "0xb7511d7b0dcb75ffad0507cbac7223653d08915"
+          },
+          {
+            "proxyWallet": "0x9f053c597d80780e09cad5087b0d687614bf8937",
+            "amount": 5499.899899,
+            "outcomeIndex": 0,
+            "pseudonym": "Steier"
+          },
+          {
+            "proxyWallet": "0xc1e1158b2a9bab4c4a4c5a4e05cb06c195fff855",
+            "amount": 4930.464389,
+            "outcomeIndex": 0,
+            "pseudonym": "0xC1E1158B2a9bAb4c4a4C5a4e05CB06c195FFF855-1764189959238"
+          },
+          {
+            "proxyWallet": "0xd26960fa8bafe528f23c3a982a11ee6501348055",
+            "amount": 4571.42857,
+            "outcomeIndex": 0,
+            "pseudonym": "quertywins"
+          },
+          {
+            "proxyWallet": "0x8c33870bec0149eb36291b6088149630b0929ac6",
+            "amount": 3418.166662,
+            "outcomeIndex": 0,
+            "pseudonym": "0xSimon168",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4629344-76ed64bc-2d0d-4dab-8223-9ab608ab2d2e.webp"
+          },
+          {
+            "proxyWallet": "0xc8ec6d4cef5c5fe8409ef69303c37f05b678e8f1",
+            "amount": 2500,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x2662de1145863fda518f52365543a0e7261f975a",
+            "amount": 2292.642856,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+            "amount": 2214,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x494e68e49044fe850b778a723a4fcc8d3088c549",
+            "amount": 2121.21,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x41b48b4145d568604106d4a78bd333a8c974de82",
+            "amount": 2000,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x4cb909db1f7ffcb76bed7f5e7df131b02e4b3783",
+            "amount": 1370.230085,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x2c1a7a67e6f71bd61a616841f54ae0df8e8d42d8",
+            "amount": 1239.322707,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x02e9bc655db7188b0d1734db1c9d765391599a18",
+            "amount": 1107.142856,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xccf38a9b206907a00dbfddebeab19aab1e048f27",
+            "amount": 800,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x4ba1d4d2a4097a57931aae43cbcadecca0ff9ebb",
+            "amount": 750,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0xc9469fbe92ab22600d6e198bb1fd25c2d87d1825",
+            "amount": 14999.869968,
+            "outcomeIndex": 1,
+            "pseudonym": "FUTBALL"
+          },
+          {
+            "proxyWallet": "0xf5ff4c9f9943e156065bef6798e90e04826b2390",
+            "amount": 12043,
+            "outcomeIndex": 1,
+            "pseudonym": "47trrr47"
+          },
+          {
+            "proxyWallet": "0x439b4cac193239c5769ac26e1d0b167e22182c9a",
+            "amount": 9425,
+            "outcomeIndex": 1,
+            "pseudonym": "ruby007"
+          },
+          {
+            "proxyWallet": "0x57a8d63731277200ed26cfde9a8a830d94f36933",
+            "amount": 9175,
+            "outcomeIndex": 1,
+            "pseudonym": "statwC00KS",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3249060-99079fc1-87f3-4b23-ac31-48c26b01083f.jpg"
+          },
+          {
+            "proxyWallet": "0x7a60ab08315573770bd102bdade2148706643170",
+            "amount": 7969.374253,
+            "outcomeIndex": 1,
+            "pseudonym": "cryptorylai"
+          },
+          {
+            "proxyWallet": "0x39fdddb0a290c2b6aca3fa70bfca0cd4e0945a3f",
+            "amount": 5134.955703,
+            "outcomeIndex": 1,
+            "pseudonym": "Fluxorbit"
+          },
+          {
+            "proxyWallet": "0x2652dd1140c3b9e69c8852264cf8dbe727672a1d",
+            "amount": 5053.083326,
+            "outcomeIndex": 1,
+            "pseudonym": "Punisher2022",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3156532-08ecb862-95bc-4f29-b604-6a68a38f0b33.jpeg"
+          },
+          {
+            "proxyWallet": "0x97317409bfd9e992611596acee93e8b938019b35",
+            "amount": 4881.411445,
+            "outcomeIndex": 1,
+            "pseudonym": "BlindOrangutan"
+          },
+          {
+            "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+            "amount": 4526.21,
+            "outcomeIndex": 1,
+            "pseudonym": "sovereign2013"
+          },
+          {
+            "proxyWallet": "0x9534cf9c9692bfe14a75f468ad37962b1aec1fe8",
+            "amount": 4186.88,
+            "outcomeIndex": 1,
+            "pseudonym": "ThreeAxes"
+          },
+          {
+            "proxyWallet": "0x67e752300426fd0877029c425fb95b9d91d352ca",
+            "amount": 3753.306741,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x3873d0ea94852db3ea7ff5a96a26eda2c630c068",
+            "amount": 3499.965705,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xb986f5c019ebe964f96bf0240c8135f3f827d032",
+            "amount": 3299.790692,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xe20a1538293903b746ffe6c4ce2d5c3c0300e469",
+            "amount": 3262.84,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x3ffb453b82491003c4fefa798c4d32aa1e73df76",
+            "amount": 3119.519017,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+            "amount": 2801.992856,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd04d631183d7568356f598a3c77181ec4ab6d0e5",
+            "amount": 2500,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x7bd84b169770743b5135679516bb992663ccaeab",
+            "amount": 2399.685713,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x56fe50c7784207e480bf073d8d326e8ad02474db",
+            "amount": 2093.02325,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xc1279f0580792e964583e486a07ffa2b06fb66e9",
+            "amount": 2068.972523,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 120217.43247500002,
+        "noTotalAmount": 106193.88119199999,
+        "whaleConcentration": 45.35307229965802,
+        "smartMoneyDirection": "YES",
+        "top10Concentration": 80.03914015203777
+      },
+      "timestamp": 1768151280251
+    }
+  },
+  {
+    "market": {
+      "marketId": "1114252",
+      "eventId": "1114252",
+      "conditionId": "0x697d98729257b6f5e65a411c1666aa49bb9c0ce0a22fa1c7aab22b9e49804b9f",
+      "eventSlug": "nba-hou-sac-2026-01-11",
+      "marketSlug": "nba-hou-sac-2026-01-11",
+      "title": "Rockets vs. Kings",
+      "sport": "NBA",
+      "startTime": "2026-01-12 02:00:00+00",
+      "volume": 176377.887772,
+      "liquidity": 154208.9154,
+      "prices": {
+        "yes": 0.845,
+        "no": 0.155
+      },
+      "teamA": {
+        "name": "Houston Rockets"
+      },
+      "teamB": {
+        "name": "Sacramento Kings"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0x0aa3744338ddf9f39fb3a80bc9c916179d0b64e9",
+            "amount": 29294.04,
+            "outcomeIndex": 0,
+            "pseudonym": "DimasXT",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-621728-d6b41314-449e-45f8-a35d-7ae424753fce.jpg"
+          },
+          {
+            "proxyWallet": "0x724b8ac8370922102adeeeb93c34376e68bbe780",
+            "amount": 18544.96235,
+            "outcomeIndex": 0,
+            "pseudonym": "yanbalkon"
+          },
+          {
+            "proxyWallet": "0x2652dd1140c3b9e69c8852264cf8dbe727672a1d",
+            "amount": 6921.376014,
+            "outcomeIndex": 0,
+            "pseudonym": "Punisher2022",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3156532-08ecb862-95bc-4f29-b604-6a68a38f0b33.jpeg"
+          },
+          {
+            "proxyWallet": "0x3fbded0c0a363b522cc8e6d868bfdec2a812c4e4",
+            "amount": 4756.966461,
+            "outcomeIndex": 0,
+            "pseudonym": "melancolie"
+          },
+          {
+            "proxyWallet": "0x57a8d63731277200ed26cfde9a8a830d94f36933",
+            "amount": 4173,
+            "outcomeIndex": 0,
+            "pseudonym": "statwC00KS",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3249060-99079fc1-87f3-4b23-ac31-48c26b01083f.jpg"
+          },
+          {
+            "proxyWallet": "0x7f25372d1b79b531adb9e1fe285f3706583ca115",
+            "amount": 3999.984112,
+            "outcomeIndex": 0,
+            "pseudonym": "kingqwer"
+          },
+          {
+            "proxyWallet": "0x0d1618dd4297cb859289b1ff437cf378312485f3",
+            "amount": 2972.54,
+            "outcomeIndex": 0,
+            "pseudonym": "Mr.biKZ"
+          },
+          {
+            "proxyWallet": "0xf6d0642148933ea5a0c5c9ad33c1c1b517e69391",
+            "amount": 2829,
+            "outcomeIndex": 0,
+            "pseudonym": "fun123"
+          },
+          {
+            "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+            "amount": 2465.16,
+            "outcomeIndex": 0,
+            "pseudonym": "sovereign2013"
+          },
+          {
+            "proxyWallet": "0x97317409bfd9e992611596acee93e8b938019b35",
+            "amount": 2443.57,
+            "outcomeIndex": 0,
+            "pseudonym": "BlindOrangutan"
+          },
+          {
+            "proxyWallet": "0xe60a9b0be459d9849bc2339dac20517639ae6a47",
+            "amount": 1991.012608,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x8d266b3a02e34cfaaaf2469dcbd35ed6a1291c15",
+            "amount": 1687.469876,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xd6966eb1ae7b52320ba7ab1016680198c9e08a49",
+            "amount": 1424.2,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xb55216ed55337cf9443139e4e5cace56426694a8",
+            "amount": 1389,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x067f7f6e3d5363f1cf962499d1be2ca6de8be041",
+            "amount": 1137.05,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x78f7ba025c366404e74c4315d2895bda4ce62c5d",
+            "amount": 992.4,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xe20a1538293903b746ffe6c4ce2d5c3c0300e469",
+            "amount": 900,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xa315afc43cd6c3fc06774d33d769d0ff043ecabb",
+            "amount": 785,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xa4274af520a591074e436cbaed53391c6f62f928",
+            "amount": 650,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+            "amount": 635.018232,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0x64b537601c39203e2d831bcf5df66601aff67543",
+            "amount": 13662.072973,
+            "outcomeIndex": 1,
+            "pseudonym": "Guailankia"
+          },
+          {
+            "proxyWallet": "0xbf5160f50a5ee187a53aa3a3dfca5f40aeb84a30",
+            "amount": 11764.70588,
+            "outcomeIndex": 1,
+            "pseudonym": "wagwag"
+          },
+          {
+            "proxyWallet": "0x7412897ad6ea781b68e2ac2f8cf3fad3502f85d0",
+            "amount": 7352.645869,
+            "outcomeIndex": 1,
+            "pseudonym": "78879"
+          },
+          {
+            "proxyWallet": "0x90ba2e712cdb5d167f22ef2053333ff1437463f3",
+            "amount": 7100,
+            "outcomeIndex": 1,
+            "pseudonym": "Esvvhjtrfvnki7yg4gbj6yg"
+          },
+          {
+            "proxyWallet": "0xa051370fbcb5874ed0f0b6703870774ca48b54eb",
+            "amount": 5700,
+            "outcomeIndex": 1,
+            "pseudonym": "RollsRoycsUmbrella"
+          },
+          {
+            "proxyWallet": "0x09196e74fc2b303222b701ecc7f5adb1d826c868",
+            "amount": 3600,
+            "outcomeIndex": 1,
+            "pseudonym": "95217",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4744442-32063dbc-4b6c-4f1f-b23e-b4f83011e504.webp"
+          },
+          {
+            "proxyWallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+            "amount": 3500,
+            "outcomeIndex": 1,
+            "pseudonym": "jtwyslljy"
+          },
+          {
+            "proxyWallet": "0xb47e0ebd655e6b0190a26b2814a9a2282dc0c602",
+            "amount": 3000,
+            "outcomeIndex": 1,
+            "pseudonym": "PMMMR"
+          },
+          {
+            "proxyWallet": "0x14619de097b1fbe058d6d36282662c20958a30a1",
+            "amount": 2999,
+            "outcomeIndex": 1,
+            "pseudonym": "saksaks12"
+          },
+          {
+            "proxyWallet": "0xd04d631183d7568356f598a3c77181ec4ab6d0e5",
+            "amount": 2500,
+            "outcomeIndex": 1,
+            "pseudonym": "kamlot"
+          },
+          {
+            "proxyWallet": "0xe4fc1041edb5c205e449fb6a5967e9db24418af7",
+            "amount": 2399.990005,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+            "amount": 1999.11,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x478f311993178d13af1ffa5ad8db3cb5432df5d9",
+            "amount": 1470.588234,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd55c74ed23afe752f49bb4393b7cff2cbeb2d703",
+            "amount": 1125,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xaabb9635b907c0ab34e6c6e4000481dac1245554",
+            "amount": 1000.028831,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd8c28b016f910aa7b6f1813562d6369ffa8939ed",
+            "amount": 1000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x098c8fe3e2e915715e8b4c013ad43b433ca21c67",
+            "amount": 1000,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x239ef5c5c7ebcb8385a85da06d973c47e882ef98",
+            "amount": 811.764704,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xccf38a9b206907a00dbfddebeab19aab1e048f27",
+            "amount": 800,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd227e2c3fdd57aa8e261ca97a76e31a0289ace88",
+            "amount": 750,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 89991.74965300002,
+        "noTotalAmount": 73534.906496,
+        "whaleConcentration": 53.53243633028041,
+        "smartMoneyDirection": "NEUTRAL",
+        "top10Concentration": 85.355517532151
+      },
+      "timestamp": 1768151280569
+    }
+  },
+  {
+    "market": {
+      "marketId": "1114249",
+      "eventId": "1114249",
+      "conditionId": "0x6aaafbf267459c316b213bb4eb326e2c41432477859c941f1851a83051a1544b",
+      "eventSlug": "nba-atl-gsw-2026-01-11",
+      "marketSlug": "nba-atl-gsw-2026-01-11",
+      "title": "Hawks vs. Warriors",
+      "sport": "NBA",
+      "startTime": "2026-01-12 01:30:00+00",
+      "volume": 146255.780912,
+      "liquidity": 158717.0733,
+      "prices": {
+        "yes": 0.325,
+        "no": 0.675
+      },
+      "teamA": {
+        "name": "Atlanta Hawks"
+      },
+      "teamB": {
+        "name": "Golden State Warriors"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0x2652dd1140c3b9e69c8852264cf8dbe727672a1d",
+            "amount": 14487.448233,
+            "outcomeIndex": 0,
+            "pseudonym": "Punisher2022",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3156532-08ecb862-95bc-4f29-b604-6a68a38f0b33.jpeg"
+          },
+          {
+            "proxyWallet": "0x97317409bfd9e992611596acee93e8b938019b35",
+            "amount": 6639.93,
+            "outcomeIndex": 0,
+            "pseudonym": "BlindOrangutan"
+          },
+          {
+            "proxyWallet": "0x1117eade222413335b7ec959e5b48c1d3dbc3532",
+            "amount": 6184.33,
+            "outcomeIndex": 0,
+            "pseudonym": "benwyatt"
+          },
+          {
+            "proxyWallet": "0x90ba2e712cdb5d167f22ef2053333ff1437463f3",
+            "amount": 6149.987757,
+            "outcomeIndex": 0,
+            "pseudonym": "Esvvhjtrfvnki7yg4gbj6yg"
+          },
+          {
+            "proxyWallet": "0x03ac67436f169bb5348653f991d498bcb4944f55",
+            "amount": 4783.378406,
+            "outcomeIndex": 0,
+            "pseudonym": "POWERSLAP-EXPERT"
+          },
+          {
+            "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+            "amount": 4464,
+            "outcomeIndex": 0,
+            "pseudonym": "elkmonkey"
+          },
+          {
+            "proxyWallet": "0xd26960fa8bafe528f23c3a982a11ee6501348055",
+            "amount": 3333.333332,
+            "outcomeIndex": 0,
+            "pseudonym": "quertywins"
+          },
+          {
+            "proxyWallet": "0xa051370fbcb5874ed0f0b6703870774ca48b54eb",
+            "amount": 3030.303028,
+            "outcomeIndex": 0,
+            "pseudonym": "RollsRoycsUmbrella"
+          },
+          {
+            "proxyWallet": "0x494e68e49044fe850b778a723a4fcc8d3088c549",
+            "amount": 2121.21,
+            "outcomeIndex": 0,
+            "pseudonym": "bbccc"
+          },
+          {
+            "proxyWallet": "0xe3ff02e324912152479b1a63bf903ddad290805c",
+            "amount": 1515.151514,
+            "outcomeIndex": 0,
+            "pseudonym": "0xe3Ff02E324912152479B1A63bf903ddAD290805C-1720947586435"
+          },
+          {
+            "proxyWallet": "0xe756d873a2aec35065ba8e96787b7289a677e006",
+            "amount": 1223.462828,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xd1612fb075a949fe1ddc96068f18c56b90ed4cc1",
+            "amount": 1186.36751,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xf5d4c1341267162afc3749908631087db95aa077",
+            "amount": 1169,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xba144c299177b5d790c60d6ed697c04ddf44b792",
+            "amount": 1128,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xeb22f4735df6bd5d14e1b5fd10faefa7757d808a",
+            "amount": 1000,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x9356ba05e3e65ce672d04cec33731cb71da76462",
+            "amount": 951.484837,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x4ea15515ad9e2ff2ee2f3de51931c066ec5856f2",
+            "amount": 951,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+            "amount": 910,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xf53164c3ca90432866b066ff509e8debea14b062",
+            "amount": 909.090907,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xfaa55858f098040003978c3615a086cdd0cd7cc9",
+            "amount": 868,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0xead02f1568144be782d762e2b6a719302830f3ba",
+            "amount": 29999.51567,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x68dd6269bb89d27a850dcde0d59ee824a227f0b2",
+            "amount": 20000,
+            "outcomeIndex": 1,
+            "pseudonym": "Sharpyyy"
+          },
+          {
+            "proxyWallet": "0x067f7f6e3d5363f1cf962499d1be2ca6de8be041",
+            "amount": 8604.489184,
+            "outcomeIndex": 1,
+            "pseudonym": "SappySeal67",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-843636-6aed00e5-4eae-4015-beda-a98200da8250.png"
+          },
+          {
+            "proxyWallet": "0x7d5c8d502cdc2084d523d0138c1a2ac3165b0182",
+            "amount": 5926,
+            "outcomeIndex": 1,
+            "pseudonym": "JohnLeftman",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2005795-efc9bc19-b38a-4001-8b64-197880acd21d.png"
+          },
+          {
+            "proxyWallet": "0x8d266b3a02e34cfaaaf2469dcbd35ed6a1291c15",
+            "amount": 2513.970587,
+            "outcomeIndex": 1,
+            "pseudonym": "FrancisAnthony",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4667201-fb7ef7aa-a5be-4959-bdf8-6a06b1c49315.png"
+          },
+          {
+            "proxyWallet": "0xc1279f0580792e964583e486a07ffa2b06fb66e9",
+            "amount": 2121.21,
+            "outcomeIndex": 1,
+            "pseudonym": "0xC1279f0580792e964583e486A07ffA2b06fB66E9-1763453874861"
+          },
+          {
+            "proxyWallet": "0xb00f8e71aec810ec1ed556bb69485ecc60869ef7",
+            "amount": 2079.143571,
+            "outcomeIndex": 1,
+            "pseudonym": "BWJMBWJM"
+          },
+          {
+            "proxyWallet": "0xbd0923420f3bbe8580237cd8fadb25a46cd2a188",
+            "amount": 2000,
+            "outcomeIndex": 1,
+            "pseudonym": "Saivestor"
+          },
+          {
+            "proxyWallet": "0xd04d631183d7568356f598a3c77181ec4ab6d0e5",
+            "amount": 1499.875742,
+            "outcomeIndex": 1,
+            "pseudonym": "kamlot"
+          },
+          {
+            "proxyWallet": "0x80cfde69b422804c9776e9526891aa48d174427d",
+            "amount": 1250,
+            "outcomeIndex": 1,
+            "pseudonym": "Dustybeermat"
+          },
+          {
+            "proxyWallet": "0xe60a9b0be459d9849bc2339dac20517639ae6a47",
+            "amount": 1121,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x2934efa3cc0794953270262e9da00c04e21d0b51",
+            "amount": 650,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xba0d049aa32383efdcb1b5e6535dcd984c369a6e",
+            "amount": 550,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xba264376d6fef08f23a44db4153d12d47f5f23c9",
+            "amount": 500.063577,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x5e3e041e7aa13f6290bf76fa5125b65e55b823f9",
+            "amount": 500,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x81488ef2ff3967f940cf67bb655401afaed886a8",
+            "amount": 450,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x2be434f45726317f5125ca0cbb16edceada9a5d7",
+            "amount": 441.176468,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xb19453430448f2c8b09ec53e97849eab0d8444fc",
+            "amount": 399.97939,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x81aa00e779b5c3ec518f160bf0478c98824beee1",
+            "amount": 380.88235,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x391dd6c65880963a94da3fb2d31ef419fe5bdef1",
+            "amount": 371.990302,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 63005.478352,
+        "noTotalAmount": 81359.296841,
+        "whaleConcentration": 59.512933797139944,
+        "smartMoneyDirection": "NO",
+        "top10Concentration": 89.15144075273051
+      },
+      "timestamp": 1768151280319
+    }
+  },
+  {
+    "market": {
+      "marketId": "1114246",
+      "eventId": "1114246",
+      "conditionId": "0x94a76bff1f221305aa7abc8a224a1f0b85c7914854218f49decdba046a5b033f",
+      "eventSlug": "nba-was-phx-2026-01-11",
+      "marketSlug": "nba-was-phx-2026-01-11",
+      "title": "Wizards vs. Suns",
+      "sport": "NBA",
+      "startTime": "2026-01-12 01:00:00+00",
+      "volume": 138460.969947,
+      "liquidity": 234965.8672,
+      "prices": {
+        "yes": 0.135,
+        "no": 0.865
+      },
+      "teamA": {
+        "name": "Washington Wizards"
+      },
+      "teamB": {
+        "name": "Phoenix Suns"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xbf5160f50a5ee187a53aa3a3dfca5f40aeb84a30",
+            "amount": 22251.463402,
+            "outcomeIndex": 0,
+            "pseudonym": "wagwag"
+          },
+          {
+            "proxyWallet": "0x9f053c597d80780e09cad5087b0d687614bf8937",
+            "amount": 15999.967078,
+            "outcomeIndex": 0,
+            "pseudonym": "Steier"
+          },
+          {
+            "proxyWallet": "0x90ba2e712cdb5d167f22ef2053333ff1437463f3",
+            "amount": 10099.989056,
+            "outcomeIndex": 0,
+            "pseudonym": "Esvvhjtrfvnki7yg4gbj6yg"
+          },
+          {
+            "proxyWallet": "0xa051370fbcb5874ed0f0b6703870774ca48b54eb",
+            "amount": 6385.456729,
+            "outcomeIndex": 0,
+            "pseudonym": "RollsRoycsUmbrella"
+          },
+          {
+            "proxyWallet": "0x817bd11dac76d41df5459a985e9e9c8a9e2e3c25",
+            "amount": 4999.996661,
+            "outcomeIndex": 0,
+            "pseudonym": "WienerProcess",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1689071-87b52f2c-ea1c-4b98-b2c0-64093eb99ef5.png"
+          },
+          {
+            "proxyWallet": "0x64b537601c39203e2d831bcf5df66601aff67543",
+            "amount": 4999.982399,
+            "outcomeIndex": 0,
+            "pseudonym": "Guailankia"
+          },
+          {
+            "proxyWallet": "0xbd0923420f3bbe8580237cd8fadb25a46cd2a188",
+            "amount": 3000,
+            "outcomeIndex": 0,
+            "pseudonym": "Saivestor"
+          },
+          {
+            "proxyWallet": "0xc8ec6d4cef5c5fe8409ef69303c37f05b678e8f1",
+            "amount": 2500,
+            "outcomeIndex": 0,
+            "pseudonym": "Hugewinner"
+          },
+          {
+            "proxyWallet": "0x494e68e49044fe850b778a723a4fcc8d3088c549",
+            "amount": 2120.35,
+            "outcomeIndex": 0,
+            "pseudonym": "bbccc"
+          },
+          {
+            "proxyWallet": "0xdb943338d542946abe62cbbace0797769f5d04f4",
+            "amount": 1199.936162,
+            "outcomeIndex": 0,
+            "pseudonym": "ipoole"
+          },
+          {
+            "proxyWallet": "0x725fb97a677317e0f55a49d596f11afbf5ec06c2",
+            "amount": 1071.42857,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xa5cfb422b01c59045e949bd2fffa526067268cc5",
+            "amount": 1000,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xd55c74ed23afe752f49bb4393b7cff2cbeb2d703",
+            "amount": 914.046434,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xcfd3da2399d34088da1fc136b36aacba8765bdbc",
+            "amount": 892.857141,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xccf38a9b206907a00dbfddebeab19aab1e048f27",
+            "amount": 800,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x83a3d2e9d8f00c9fbc9d59929f07439db71c6292",
+            "amount": 750,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x8bcafff84ac7aa2658bb1174114d9ce4e1d5d32c",
+            "amount": 714.285713,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x64a81ea84c054f5080bd1f0c81f9023c02b37bc3",
+            "amount": 714.285713,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x85de1361efd5c682f6eb7d3a63306bf425373717",
+            "amount": 510,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xe838577c755c713c7ebc4a5dcb927787d57c3832",
+            "amount": 510,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0x3873d0ea94852db3ea7ff5a96a26eda2c630c068",
+            "amount": 11629.73993,
+            "outcomeIndex": 1,
+            "pseudonym": "leiting26"
+          },
+          {
+            "proxyWallet": "0xe8d78397160e13edc306a63b1d88c9c1f3dd1252",
+            "amount": 8741.379307,
+            "outcomeIndex": 1,
+            "pseudonym": "coinlaundry",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4244765-b7fd6e4d-eea5-4b18-8983-9982b252c0b4.png"
+          },
+          {
+            "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+            "amount": 8345.558563,
+            "outcomeIndex": 1,
+            "pseudonym": "sovereign2013"
+          },
+          {
+            "proxyWallet": "0xbc31a305cebe4c9cd0574c5cd170c8991ac34a51",
+            "amount": 6954.022987,
+            "outcomeIndex": 1,
+            "pseudonym": "p33ks"
+          },
+          {
+            "proxyWallet": "0xe60a9b0be459d9849bc2339dac20517639ae6a47",
+            "amount": 6035.982255,
+            "outcomeIndex": 1,
+            "pseudonym": "0xb7511d7b0dcb75ffad0507cbac7223653d08915"
+          },
+          {
+            "proxyWallet": "0x78f7ba025c366404e74c4315d2895bda4ce62c5d",
+            "amount": 4472.7,
+            "outcomeIndex": 1,
+            "pseudonym": "TheLean"
+          },
+          {
+            "proxyWallet": "0x7bd84b169770743b5135679516bb992663ccaeab",
+            "amount": 4313.24,
+            "outcomeIndex": 1,
+            "pseudonym": "0x7bD84B169770743B5135679516Bb992663ccaEaB-1753273582241"
+          },
+          {
+            "proxyWallet": "0x94fa5631048f10e7e6d30a669b0a5020781b989e",
+            "amount": 3432,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x153a9196135ee9ac4c202d1d25c558862bc19d6d",
+            "amount": 3154.814268,
+            "outcomeIndex": 1,
+            "pseudonym": "Coach99"
+          },
+          {
+            "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+            "amount": 2984,
+            "outcomeIndex": 1,
+            "pseudonym": "elkmonkey"
+          },
+          {
+            "proxyWallet": "0x2652dd1140c3b9e69c8852264cf8dbe727672a1d",
+            "amount": 2977.476183,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x439b4cac193239c5769ac26e1d0b167e22182c9a",
+            "amount": 2242.5,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xc1279f0580792e964583e486a07ffa2b06fb66e9",
+            "amount": 2121.21,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd04d631183d7568356f598a3c77181ec4ab6d0e5",
+            "amount": 2107.72,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x8d266b3a02e34cfaaaf2469dcbd35ed6a1291c15",
+            "amount": 1535.862061,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xe20a1538293903b746ffe6c4ce2d5c3c0300e469",
+            "amount": 1500,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xbf6bcf918bc4d8600d2c1664f574039c82209431",
+            "amount": 1257.224283,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd15ab6210a44d8752730964313b962649d2480db",
+            "amount": 1200,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xe4fc1041edb5c205e449fb6a5967e9db24418af7",
+            "amount": 1199.959989,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x773cd6af028fa8818ccb7ff8678e6727dbefcf18",
+            "amount": 1169.767435,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 81434.04505800002,
+        "noTotalAmount": 77375.157261,
+        "whaleConcentration": 48.528735243687784,
+        "smartMoneyDirection": "NEUTRAL",
+        "top10Concentration": 84.13906552379524
+      },
+      "timestamp": 1768151280707
+    }
+  },
+  {
+    "market": {
+      "marketId": "1121733",
+      "eventId": "1121733",
+      "conditionId": "0x5f1321577302b02d8b52f9dde7a80e30a9ecc6d54ab1852ba24f500177dc5a43",
+      "eventSlug": "nba-bos-ind-2026-01-12",
+      "marketSlug": "nba-bos-ind-2026-01-12",
+      "title": "Celtics vs. Pacers",
+      "sport": "NBA",
+      "startTime": "2026-01-13 00:30:00+00",
+      "volume": 5151.543823,
+      "liquidity": 18636.4655,
+      "prices": {
+        "yes": 0.745,
+        "no": 0.255
+      },
+      "teamA": {
+        "name": "Boston Celtics"
+      },
+      "teamB": {
+        "name": "Indiana Pacers"
+      }
+    },
+    "holders": {
+      "success": true,
+      "data": {
+        "yesHolders": [
+          {
+            "proxyWallet": "0xe60a9b0be459d9849bc2339dac20517639ae6a47",
+            "amount": 1378.550044,
+            "outcomeIndex": 0,
+            "pseudonym": "0xb7511d7b0dcb75ffad0507cbac7223653d08915"
+          },
+          {
+            "proxyWallet": "0xe779a62d58d3f8a1b48930566f0198b064b8335e",
+            "amount": 1000,
+            "outcomeIndex": 0,
+            "pseudonym": "0xE779a62d58d3F8A1B48930566F0198b064B8335e-1726459054740"
+          },
+          {
+            "proxyWallet": "0xf7bbfd4588f578697c0051e855d5d1a8838ba9f7",
+            "amount": 423,
+            "outcomeIndex": 0,
+            "pseudonym": "PiMaak"
+          },
+          {
+            "proxyWallet": "0x80aa3f63938212447a81cd50293aae50df8c557e",
+            "amount": 400,
+            "outcomeIndex": 0,
+            "pseudonym": "WENTAOJIANG"
+          },
+          {
+            "proxyWallet": "0xe1aff568c9ce89fbd38e89071515f1d75aefd23b",
+            "amount": 60,
+            "outcomeIndex": 0,
+            "pseudonym": "Ereviz.eth"
+          },
+          {
+            "proxyWallet": "0x330a279dbc862be84f591debddaa8465b3138726",
+            "amount": 49.671229,
+            "outcomeIndex": 0,
+            "pseudonym": "betterBeter",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1402477-64d8bae5-8bdd-4ea4-85bd-07ff645d7b47.jpg"
+          },
+          {
+            "proxyWallet": "0xdfc16898a5e2bc722486e23083a98e29b861818d",
+            "amount": 36,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x9ce02333c6e2ef9e2b3ad7cf87336d9a10b02b8a",
+            "amount": 33.78378,
+            "outcomeIndex": 0,
+            "pseudonym": "kratos00"
+          },
+          {
+            "proxyWallet": "0xfe7706d5f5d860c494f0f9ac7e28b0aa8ba6251b",
+            "amount": 31.645561,
+            "outcomeIndex": 0,
+            "pseudonym": "J4tooez"
+          },
+          {
+            "proxyWallet": "0xb94fd56af608a4ae6ec6b2ecce322d6de7d411f7",
+            "amount": 28,
+            "outcomeIndex": 0,
+            "pseudonym": "0xb94Fd56af608A4AE6Ec6b2ECCe322D6DE7d411F7-1766799055960"
+          },
+          {
+            "proxyWallet": "0xae299cbae1204822f8b5e41c1b522fbe878e1c87",
+            "amount": 27.397259,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x1df0957de8a3f15bef7da79a8d63294541f81d17",
+            "amount": 25.974021,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xa78545c61d1f7158c79b660e09c4be2e6b59acb6",
+            "amount": 20,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x44ca9e16db728e9289f4d926dad4cdcb768cfbbc",
+            "amount": 15,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0xee8b8e90d8ddc5e981460c91b517761a021c6436",
+            "amount": 14,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x93a62491877d5aa437a52f45c01f46ec18d4b1c2",
+            "amount": 13.818274,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x77894402a40eaa0e43f1b74fc452bc394fbbd6c0",
+            "amount": 10,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x6444f929552d5144e839ea76bab408dfe996672e",
+            "amount": 9.581431,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x9050c69f5cdfeeda0f057d26994cf8a69bce0a7a",
+            "amount": 6.72,
+            "outcomeIndex": 0
+          },
+          {
+            "proxyWallet": "0x8dbb0b0398badd5648460a42418e63c6315dedc4",
+            "amount": 6.666664,
+            "outcomeIndex": 0
+          }
+        ],
+        "noHolders": [
+          {
+            "proxyWallet": "0x2e4c9c7275d0f5d02e1787e7f59d98ad985b28dd",
+            "amount": 1000,
+            "outcomeIndex": 1,
+            "pseudonym": "kiinndz"
+          },
+          {
+            "proxyWallet": "0x817bd11dac76d41df5459a985e9e9c8a9e2e3c25",
+            "amount": 601.67,
+            "outcomeIndex": 1,
+            "pseudonym": "WienerProcess",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1689071-87b52f2c-ea1c-4b98-b2c0-64093eb99ef5.png"
+          },
+          {
+            "proxyWallet": "0x67f4b3d1d5411608015a15f6689ce1050128f91b",
+            "amount": 499.994021,
+            "outcomeIndex": 1,
+            "pseudonym": "Me2828"
+          },
+          {
+            "proxyWallet": "0x08ceded238219b4b3fff04e00a4778d839d4f301",
+            "amount": 438.641225,
+            "outcomeIndex": 1,
+            "pseudonym": "rocky42022"
+          },
+          {
+            "proxyWallet": "0x84f7860753f0fb62e7e786523690661c4255ade1",
+            "amount": 332,
+            "outcomeIndex": 1,
+            "pseudonym": "brunnpas"
+          },
+          {
+            "proxyWallet": "0xfbfdc8b8c893438f620603200c4659202beb46f8",
+            "amount": 186.892309,
+            "outcomeIndex": 1,
+            "pseudonym": "dapeng456"
+          },
+          {
+            "proxyWallet": "0x42b53f1fa44a03de5f9cb8586fa13ef5ac1cb5b6",
+            "amount": 134.193332,
+            "outcomeIndex": 1,
+            "pseudonym": "K00ldr4g0n"
+          },
+          {
+            "proxyWallet": "0x10d4c35eb0a26c0e2fab75e7eb6cdaff0f3169eb",
+            "amount": 117,
+            "outcomeIndex": 1,
+            "pseudonym": "nbf88a"
+          },
+          {
+            "proxyWallet": "0xe18324fe7056fab4031e90ac5188d80b2b4a62e6",
+            "amount": 99.997259,
+            "outcomeIndex": 1,
+            "pseudonym": "kroshka",
+            "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4975813-468326ef-f9cc-4077-a83a-14053e9b555c.png"
+          },
+          {
+            "proxyWallet": "0x64e86fefd50cdb6259eb00ff146d9aac03497819",
+            "amount": 41.88378,
+            "outcomeIndex": 1,
+            "pseudonym": "0x64e86FEfD50CDB6259EB00FF146D9aAC03497819-1763118127499"
+          },
+          {
+            "proxyWallet": "0x5ade6a6ffbba44ec3a9a50ae6d19149f69397624",
+            "amount": 24.373325,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xd9fae118da30f058b6e344d7ae85885e62bb0d30",
+            "amount": 17.9,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xf56be8d6d1a4f76248dc8d8691a3e232a7290b8d",
+            "amount": 16,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xc1b550b4a09e02ff722d1f372374ca3c708f2e74",
+            "amount": 16,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x91585a40132f7056d6986e146f6d45c0b56dba55",
+            "amount": 15,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+            "amount": 13.354547,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x86bd652da58a2a7dc267cbe4c28f697d011d21bd",
+            "amount": 12.5,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xec4a32a4c5b9ed1d73a41851aed585ae1b8adb14",
+            "amount": 12,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0x24621a1674da7cea60df5a606497c748de359e17",
+            "amount": 11.53846,
+            "outcomeIndex": 1
+          },
+          {
+            "proxyWallet": "0xc40300786836d7b51b2f64d1a0f32c12768cff1f",
+            "amount": 8.005453,
+            "outcomeIndex": 1
+          }
+        ],
+        "yesTotalAmount": 3589.808263,
+        "noTotalAmount": 3598.9437110000003,
+        "whaleConcentration": 68.20674969360127,
+        "smartMoneyDirection": "NEUTRAL",
+        "top10Concentration": 95.88482903472055
+      },
+      "timestamp": 1768151280615
+    }
+  }
+]

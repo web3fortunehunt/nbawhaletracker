@@ -3,4 +3,3 @@
 .config/
 .streamlit/
 *.db
-*.json
