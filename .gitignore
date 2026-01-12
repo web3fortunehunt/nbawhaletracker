@@ -1,0 +1,6 @@
+.env
+.trae/
+.config/
+.streamlit/
+*.db
+*.json
